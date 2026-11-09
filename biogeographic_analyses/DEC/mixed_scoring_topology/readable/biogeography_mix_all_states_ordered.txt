@@ -1,0 +1,768 @@
+=====================================================
+node_130   (n_tips = 129 )
+Tips: Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)
+States ordered by probability:
+EFJ (0.5352); AEF (0.1305); E (0.0913); EF (0.0851); EJ (0.0366); AE (0.0365); AEJ (0.0239); EFL (0.0119); EFI (0.0051); CEF (0.0019); AFJ (0.0018); EL (0.0017); AEL (0.0015); DEF (0.0014); EFG (0.0014); AEG (0.0013); AEI (0.0013); ADE (0.0013); AEM (0.0013); CE (0.0012); EI (0.0012); BEF (0.0012); ACE (0.0012); AEH (0.0012); AEK (0.0011); ABE (0.0011); EFH (0.0011); EFM (0.0011); EFK (0.0011); AEN (0.0011); EFN (0.0011); DE (0.0010); EG (0.0010); BE (0.0010); DEJ (0.0009); EGJ (0.0009); EM (0.0009); EH (0.0009); EK (0.0009); EN (0.0008); CEJ (0.0007); EHJ (0.0007); EJK (0.0007); EJL (0.0006); EIJ (0.0006); BEJ (0.0006); EJN (0.0005); EJM (0.0005); FJ (0.0003); AF (0.0002)
+
+=====================================================
+node_131   (n_tips = 128 )
+Tips: Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)
+States ordered by probability:
+EFJ (0.4895); AEF (0.0982); E (0.0914); EF (0.0766); FJ (0.0578); AE (0.0352); AF (0.0321); EJ (0.0299); AEJ (0.0231); AFJ (0.0131); EFL (0.0109); EFI (0.0045); F (0.0041); CEF (0.0014); AEL (0.0014); AEG (0.0012); AEI (0.0012); ADE (0.0011); AEM (0.0011); ACE (0.0011); DEF (0.0011); EFG (0.0011); AEH (0.0010); ABE (0.0010); AEK (0.0010); AEN (0.0010); BEF (0.0009); FL (0.0009); EL (0.0009); EFH (0.0008); AJ (0.0008); EFM (0.0008); EFK (0.0008); A (0.0008); DEJ (0.0008); EFN (0.0008); EGJ (0.0008); CE (0.0006); CEJ (0.0006); EJK (0.0006); EHJ (0.0006); EJL (0.0006); EI (0.0005); EIJ (0.0005); BEJ (0.0005); EJN (0.0004); EJM (0.0004); DE (0.0004); EG (0.0004); FI (0.0003); BE (0.0003); EM (0.0003); EH (0.0003); EK (0.0003); EN (0.0003); CF (0.0002); J (0.0001)
+
+=====================================================
+node_132   (n_tips = 6 )
+Tips: Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)
+States ordered by probability:
+EFJ (0.3373); FJ (0.2579); EF (0.1205); E (0.1090); F (0.0527); EJ (0.0439); AF (0.0213); AEF (0.0197); EFL (0.0067); FL (0.0050); EFI (0.0028); AFJ (0.0023); FI (0.0018); AEJ (0.0017); AE (0.0017); EFG (0.0008); DEF (0.0008); EL (0.0007); CEF (0.0007); EFH (0.0006); BEF (0.0006); EFK (0.0006); EJL (0.0006); EFM (0.0005); DEJ (0.0005); EGJ (0.0005); EFN (0.0005); EIJ (0.0005); DFJ (0.0005); BEJ (0.0005); EHJ (0.0004); FGJ (0.0004); EJK (0.0004); CEJ (0.0004); EJM (0.0004); EJN (0.0004); FJL (0.0003); EI (0.0003); FJK (0.0003); FHJ (0.0003); J (0.0002); EG (0.0002); DE (0.0002); FIJ (0.0001); FG (0.0001); DF (0.0001); CF (0.0001); A (0.0001); CE (0.0001); BE (0.0001); EH (0.0001)
+
+=====================================================
+node_133   (n_tips = 5 )
+Tips: Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi
+States ordered by probability:
+EF (0.5864); F (0.3917); EFJ (0.0093); FJ (0.0032); E (0.0018); AEF (0.0015); EFG (0.0009); DEF (0.0008); AF (0.0007); EFH (0.0005); EFK (0.0004); EFL (0.0004); EFI (0.0003); CEF (0.0003); BEF (0.0002); EFN (0.0002); FG (0.0002); DF (0.0002); EFM (0.0002); FH (0.0001); FK (0.0001)
+
+=====================================================
+node_134   (n_tips = 4 )
+Tips: Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii
+States ordered by probability:
+EF (0.6357); F (0.3406); EFJ (0.0087); E (0.0048); AEF (0.0016); EFG (0.0015); FJ (0.0014); DEF (0.0014); EFH (0.0007); EFK (0.0006); EFL (0.0004); AF (0.0003); CEF (0.0003); FG (0.0003); DF (0.0003); EFI (0.0003); EFN (0.0002); BEF (0.0002); EFM (0.0002); FH (0.0001); FK (0.0001)
+
+=====================================================
+node_135   (n_tips = 3 )
+Tips: Acynodon_adriaticus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii
+States ordered by probability:
+EF (0.9024); E (0.0436); F (0.0356); EFJ (0.0078); DEF (0.0020); EFG (0.0020); AEF (0.0019); EFH (0.0010); EFK (0.0008); CEF (0.0004); EG (0.0003); EFL (0.0003); EJ (0.0003); EFN (0.0002); EFI (0.0002); DE (0.0002); BEF (0.0002); FJ (0.0002); EFM (0.0001)
+
+=====================================================
+node_136   (n_tips = 2 )
+Tips: Hylaeochampsa_vectiana, Iharkutosuchus_makadii
+States ordered by probability:
+E (0.9498); EF (0.0458); EJ (0.0016); AE (0.0005); F (0.0005); DE (0.0004); EG (0.0004); EH (0.0002); EFJ (0.0001); EK (0.0001)
+
+=====================================================
+node_137   (n_tips = 122 )
+Tips: Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)
+States ordered by probability:
+AE (0.6798); AEF (0.1129); A (0.0763); AF (0.0531); AEJ (0.0469); AJ (0.0116); ACE (0.0038); AEG (0.0028); ADE (0.0026); E (0.0021); AFJ (0.0012); AEH (0.0011); AEM (0.0007); AFG (0.0005); AEI (0.0005); ABE (0.0005); AEL (0.0005); ADF (0.0005); AEK (0.0005); AEN (0.0004); ACF (0.0004); AC (0.0004); EJ (0.0002); AFH (0.0002); AFK (0.0002); AG (0.0001)
+
+=====================================================
+node_138   (n_tips = 121 )
+Tips: Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)
+States ordered by probability:
+AE (0.6829); AEF (0.1320); AEJ (0.0565); AF (0.0488); E (0.0317); A (0.0214); ACE (0.0042); EF (0.0041); AJ (0.0035); AEG (0.0028); EJ (0.0025); ADE (0.0022); AFJ (0.0015); AEH (0.0009); AEM (0.0006); AFG (0.0006); ADF (0.0005); ACF (0.0004); AEI (0.0004); ABE (0.0004); AEL (0.0004); AEK (0.0003); AEN (0.0003); AFH (0.0002); AFK (0.0002); CE (0.0001)
+
+=====================================================
+node_139   (n_tips = 5 )
+Tips: Agaresuchus_subjuniperus, Allodaposuchus_precedens, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos
+States ordered by probability:
+EF (0.7513); E (0.2365); AEF (0.0048); EFJ (0.0021); EFG (0.0018); AE (0.0012); EJ (0.0006); EFH (0.0003); F (0.0003); DEF (0.0002); EFI (0.0002); EG (0.0002); CEF (0.0002); EFK (0.0001)
+
+=====================================================
+node_140   (n_tips = 4 )
+Tips: Agaresuchus_subjuniperus, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos
+States ordered by probability:
+EF (0.9489); F (0.0459); AEF (0.0022); EFJ (0.0010); EFG (0.0009); E (0.0004); EFH (0.0002); EFI (0.0001); DEF (0.0001); AF (0.0001)
+
+=====================================================
+node_141   (n_tips = 2 )
+Tips: Agaresuchus_subjuniperus, Arenysuchus_gascabadiolorum
+States ordered by probability:
+F (0.9994); EF (0.0004); FG (0.0001)
+
+=====================================================
+node_142   (n_tips = 2 )
+Tips: Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos
+States ordered by probability:
+EF (0.9963); AEF (0.0012); F (0.0008); EFJ (0.0006); EFG (0.0006); E (0.0002); EFH (0.0001)
+
+=====================================================
+node_143   (n_tips = 116 )
+Tips: Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)
+States ordered by probability:
+AE (0.5243); A (0.3640); AEJ (0.0404); AJ (0.0203); AEF (0.0158); E (0.0147); AF (0.0093); ACE (0.0031); AEG (0.0015); EJ (0.0013); ADE (0.0013); AC (0.0006); AEH (0.0005); AEM (0.0004); AG (0.0004); AD (0.0003); AEI (0.0002); ABE (0.0002); AEL (0.0002); AEK (0.0002); AEN (0.0002); J (0.0001); AH (0.0001)
+
+=====================================================
+node_144   (n_tips = 103 )
+Tips: Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)
+States ordered by probability:
+A (0.8002); AE (0.1192); AJ (0.0427); AEJ (0.0304); E (0.0035); J (0.0012); AEF (0.0005); AF (0.0004); EJ (0.0004); AC (0.0003); AEM (0.0002); ACE (0.0002); AD (0.0002); ADE (0.0001)
+
+=====================================================
+node_145   (n_tips = 99 )
+Tips: Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)
+States ordered by probability:
+A (0.9654); AJ (0.0187); AE (0.0140); AEJ (0.0006); AF (0.0004); AEF (0.0002); AC (0.0002); AEM (0.0002); AD (0.0002)
+
+=====================================================
+node_146   (n_tips = 96 )
+Tips: Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)
+States ordered by probability:
+A (0.9073); AJ (0.0660); AE (0.0236); AEJ (0.0010); AF (0.0009); AEF (0.0004); AEM (0.0002); AC (0.0002); AD (0.0001)
+
+=====================================================
+node_147   (n_tips = 54 )
+Tips: Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)
+States ordered by probability:
+AJ (0.7432); A (0.2086); ADJ (0.0362); AD (0.0034); AJL (0.0023); AEJ (0.0021); AE (0.0018); ACJ (0.0014); ABJ (0.0004); AFJ (0.0002); AIJ (0.0002); AC (0.0002); ADE (0.0001)
+
+=====================================================
+node_148   (n_tips = 48 )
+Tips: Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=48)
+States ordered by probability:
+A (0.9074); AD (0.0728); AJ (0.0167); ADJ (0.0014); AC (0.0006); AE (0.0006); AB (0.0001)
+
+=====================================================
+node_149   (n_tips = 29 )
+Tips: Albertochampsa_langstoni, Bottosaurus_fustidens, Bottosaurus_harlani, Brachychampsa_montana, Brachychampsa_sealeyi, ... (n=29)
+States ordered by probability:
+A (0.9306); AD (0.0673); AJ (0.0011); ADJ (0.0006); AC (0.0002)
+
+=====================================================
+node_150   (n_tips = 4 )
+Tips: Albertochampsa_langstoni, Brachychampsa_montana, Brachychampsa_sealeyi, Stangerochampsa_mccabei
+States ordered by probability:
+A (0.9991); AC (0.0003); AJ (0.0002); AB (0.0001)
+
+=====================================================
+node_151   (n_tips = 3 )
+Tips: Brachychampsa_montana, Brachychampsa_sealeyi, Stangerochampsa_mccabei
+States ordered by probability:
+A (0.9998)
+
+=====================================================
+node_152   (n_tips = 2 )
+Tips: Brachychampsa_montana, Brachychampsa_sealeyi
+States ordered by probability:
+A (0.9996); AC (0.0002)
+
+=====================================================
+node_153   (n_tips = 25 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=25)
+States ordered by probability:
+AD (0.9863); D (0.0057); A (0.0049); ACD (0.0012); ADJ (0.0011); ABD (0.0003); ADE (0.0001)
+
+=====================================================
+node_154   (n_tips = 24 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=24)
+States ordered by probability:
+AD (0.9862); D (0.0060); A (0.0027); ACD (0.0022); ADJ (0.0013); ABD (0.0007); ADE (0.0003); ADN (0.0003)
+
+=====================================================
+node_155   (n_tips = 23 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=23)
+States ordered by probability:
+D (0.8969); AD (0.1014); CD (0.0005); ACD (0.0003); DJ (0.0002); DN (0.0002); BD (0.0002)
+
+=====================================================
+node_156   (n_tips = 22 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=22)
+States ordered by probability:
+D (0.9152); AD (0.0838); ACD (0.0003); CD (0.0003); DN (0.0002)
+
+=====================================================
+node_157   (n_tips = 21 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=21)
+States ordered by probability:
+D (0.9139); AD (0.0845); CD (0.0007); ACD (0.0006); DN (0.0001)
+
+=====================================================
+node_158   (n_tips = 20 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=20)
+States ordered by probability:
+D (0.8866); AD (0.1085); CD (0.0031); ACD (0.0014); DN (0.0001)
+
+=====================================================
+node_159   (n_tips = 6 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Necrosuchus_ionensis, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, ... (n=6)
+States ordered by probability:
+D (0.7388); AD (0.2602); CD (0.0003); ACD (0.0003)
+
+=====================================================
+node_160   (n_tips = 5 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, Tsoabichi_greenriverensis
+States ordered by probability:
+AD (0.9395); A (0.0550); D (0.0031); ACD (0.0013); ABD (0.0004); ADN (0.0002); AC (0.0002); ADJ (0.0001)
+
+=====================================================
+node_161   (n_tips = 4 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus
+States ordered by probability:
+AD (0.9391); A (0.0557); ACD (0.0023); ABD (0.0008); ADN (0.0006); AC (0.0004); ADJ (0.0004); ADE (0.0003); D (0.0003); AB (0.0001)
+
+=====================================================
+node_162   (n_tips = 2 )
+Tips: Bottosaurus_fustidens, Bottosaurus_harlani
+States ordered by probability:
+A (0.9915); AD (0.0080); AC (0.0003)
+
+=====================================================
+node_163   (n_tips = 2 )
+Tips: Paleosuchus_palpebrosus, Paleosuchus_trigonatus
+States ordered by probability:
+D (0.9983); AD (0.0016)
+
+=====================================================
+node_164   (n_tips = 14 )
+Tips: Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=14)
+States ordered by probability:
+CD (0.9066); D (0.0881); ACD (0.0021); BCD (0.0014); AD (0.0007); BD (0.0006); CDN (0.0005)
+
+=====================================================
+node_165   (n_tips = 13 )
+Tips: Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=13)
+States ordered by probability:
+D (0.9924); CD (0.0068); AD (0.0004); BD (0.0003); DN (0.0001)
+
+=====================================================
+node_166   (n_tips = 7 )
+Tips: Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=7)
+States ordered by probability:
+D (0.9976); CD (0.0020); BD (0.0002); AD (0.0002)
+
+=====================================================
+node_167   (n_tips = 6 )
+Tips: Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=6)
+States ordered by probability:
+D (0.9994); CD (0.0004); BD (0.0001)
+
+=====================================================
+node_168   (n_tips = 5 )
+Tips: Caiman_brevirostris, Caiman_crocodilus, Caiman_wannlangstoni, Caiman_yacare, La_venta_Caiman
+States ordered by probability:
+D (0.9997); CD (0.0001)
+
+=====================================================
+node_169   (n_tips = 3 )
+Tips: Caiman_brevirostris, Caiman_wannlangstoni, La_venta_Caiman
+States ordered by probability:
+D (0.9998)
+
+=====================================================
+node_170   (n_tips = 2 )
+Tips: Caiman_wannlangstoni, La_venta_Caiman
+States ordered by probability:
+D (0.9998)
+
+=====================================================
+node_171   (n_tips = 2 )
+Tips: Caiman_crocodilus, Caiman_yacare
+States ordered by probability:
+D (0.9997); BD (0.0001); CD (0.0001)
+
+=====================================================
+node_172   (n_tips = 6 )
+Tips: Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus, Purussaurus_brasiliensis, Purussaurus_mirandai, ... (n=6)
+States ordered by probability:
+D (0.9993); CD (0.0005); BD (0.0001)
+
+=====================================================
+node_173   (n_tips = 3 )
+Tips: Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus
+States ordered by probability:
+D (0.9997); CD (0.0002)
+
+=====================================================
+node_174   (n_tips = 2 )
+Tips: Mourasuchus_arendsi, Mourasuchus_atopus
+States ordered by probability:
+D (0.9999)
+
+=====================================================
+node_175   (n_tips = 3 )
+Tips: Purussaurus_brasiliensis, Purussaurus_mirandai, Purussaurus_neivensis
+States ordered by probability:
+D (0.9998); CD (0.0001)
+
+=====================================================
+node_176   (n_tips = 2 )
+Tips: Purussaurus_brasiliensis, Purussaurus_mirandai
+States ordered by probability:
+D (0.9998)
+
+=====================================================
+node_177   (n_tips = 19 )
+Tips: Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=19)
+States ordered by probability:
+A (0.8175); AD (0.1598); AJ (0.0113); ADJ (0.0045); AE (0.0026); AC (0.0017); ACD (0.0012); AB (0.0005); ABD (0.0003); AEJ (0.0002); ACJ (0.0002); ADE (0.0002)
+
+=====================================================
+node_178   (n_tips = 10 )
+Tips: Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=10)
+States ordered by probability:
+A (0.7077); AD (0.2692); AJ (0.0122); ADJ (0.0055); ACD (0.0016); AC (0.0015); AB (0.0004); ABD (0.0004); AE (0.0004); AEJ (0.0002); ADE (0.0002); ACJ (0.0002); DJ (0.0002)
+
+=====================================================
+node_179   (n_tips = 5 )
+Tips: Alligator_mcgrewi, Alligator_prenasalis, Eocaiman_cavernensis, Eocaiman_itaboraiensis, Eocaiman_palaeocenicus
+States ordered by probability:
+AD (0.9303); A (0.0580); D (0.0055); ACD (0.0028); ADJ (0.0010); ABD (0.0008); AC (0.0004); CD (0.0003); ADE (0.0003); ADN (0.0002)
+
+=====================================================
+node_180   (n_tips = 2 )
+Tips: Alligator_mcgrewi, Alligator_prenasalis
+States ordered by probability:
+A (0.9889); AD (0.0079); AC (0.0017); AB (0.0008); AJ (0.0004); AE (0.0001)
+
+=====================================================
+node_181   (n_tips = 3 )
+Tips: Eocaiman_cavernensis, Eocaiman_itaboraiensis, Eocaiman_palaeocenicus
+States ordered by probability:
+D (0.9385); AD (0.0602); CD (0.0007); BD (0.0002); DJ (0.0001)
+
+=====================================================
+node_182   (n_tips = 2 )
+Tips: Eocaiman_itaboraiensis, Eocaiman_palaeocenicus
+States ordered by probability:
+D (0.9926); AD (0.0071); CD (0.0001)
+
+=====================================================
+node_183   (n_tips = 5 )
+Tips: Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_sinensis, Alligator_thomsoni
+States ordered by probability:
+A (0.7119); AJ (0.2857); AE (0.0007); AEJ (0.0004); ACJ (0.0004); AC (0.0003); ABJ (0.0001); AJL (0.0001); ADJ (0.0001); AB (0.0001)
+
+=====================================================
+node_184   (n_tips = 4 )
+Tips: Alligator_mefferdi, Alligator_mississippiensis, Alligator_sinensis, Alligator_thomsoni
+States ordered by probability:
+AJ (0.5664); A (0.4304); ACJ (0.0006); AEJ (0.0006); AE (0.0006); ABJ (0.0003); AJL (0.0003); AIJ (0.0002); ADJ (0.0002); AJK (0.0001); AC (0.0001)
+
+=====================================================
+node_185   (n_tips = 3 )
+Tips: Alligator_mefferdi, Alligator_mississippiensis, Alligator_thomsoni
+States ordered by probability:
+A (0.9956); AJ (0.0038); AC (0.0002); AB (0.0001)
+
+=====================================================
+node_186   (n_tips = 2 )
+Tips: Alligator_mefferdi, Alligator_thomsoni
+States ordered by probability:
+A (0.9995); AJ (0.0004)
+
+=====================================================
+node_187   (n_tips = 9 )
+Tips: Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=9)
+States ordered by probability:
+A (0.9916); AE (0.0073); AC (0.0005); AJ (0.0003); AB (0.0002)
+
+=====================================================
+node_188   (n_tips = 7 )
+Tips: Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=7)
+States ordered by probability:
+A (0.9801); AE (0.0196); AJ (0.0001); AC (0.0001)
+
+=====================================================
+node_189   (n_tips = 5 )
+Tips: Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus
+States ordered by probability:
+A (0.7924); AE (0.2062); AJ (0.0007); AC (0.0002); AEJ (0.0002); ACE (0.0001)
+
+=====================================================
+node_190   (n_tips = 2 )
+Tips: Allognathosuchus_polyodon, Allognathosuchus_wartheni
+States ordered by probability:
+A (0.9994); AC (0.0003); AB (0.0001)
+
+=====================================================
+node_191   (n_tips = 3 )
+Tips: Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus
+States ordered by probability:
+AE (0.6967); A (0.3001); AJ (0.0016); AEJ (0.0006); ACE (0.0004); ABE (0.0001); AEF (0.0001)
+
+=====================================================
+node_192   (n_tips = 2 )
+Tips: Arambourgia_gaudryi, Hassiacosuchus_haupti
+States ordered by probability:
+E (0.9054); AE (0.0914); EJ (0.0013); EF (0.0004); AEJ (0.0003); EI (0.0003); EG (0.0002); CE (0.0001); ACE (0.0001)
+
+=====================================================
+node_193   (n_tips = 2 )
+Tips: Ceratosuchus_burdoshi, Navajosuchus_mooki
+States ordered by probability:
+A (0.9997); AC (0.0001)
+
+=====================================================
+node_194   (n_tips = 2 )
+Tips: Procaimanoidea_kayi, Procaimanoidea_utahensis
+States ordered by probability:
+A (0.9991); AC (0.0004); AB (0.0002); AJ (0.0002)
+
+=====================================================
+node_195   (n_tips = 6 )
+Tips: Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis, ... (n=6)
+States ordered by probability:
+J (0.8982); AJ (0.0793); JL (0.0162); AJL (0.0025); EJ (0.0021); CJ (0.0003); AEJ (0.0003); IJ (0.0002); ACJ (0.0002); FJ (0.0002); BJ (0.0001)
+
+=====================================================
+node_196   (n_tips = 5 )
+Tips: Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis
+States ordered by probability:
+J (0.9471); JL (0.0267); AJ (0.0216); AJL (0.0030); EJ (0.0008); EJL (0.0001); IJ (0.0001); FJ (0.0001)
+
+=====================================================
+node_197   (n_tips = 3 )
+Tips: Dongnanosuchus_hsui, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis
+States ordered by probability:
+JL (0.9818); AJL (0.0053); J (0.0046); EJL (0.0028); JKL (0.0021); IJL (0.0020); FJL (0.0006); GJL (0.0004); L (0.0003)
+
+=====================================================
+node_198   (n_tips = 2 )
+Tips: Krabisuchus_siamogallicus, Orientalosuchus_naduongensis
+States ordered by probability:
+L (0.9899); JL (0.0079); AL (0.0008); KL (0.0004); EL (0.0004); IL (0.0003); FL (0.0001)
+
+=====================================================
+node_199   (n_tips = 2 )
+Tips: Eoalligator_chunyii, Jiangxisuchus_nankangensis
+States ordered by probability:
+J (0.9980); AJ (0.0016); EJ (0.0002); JL (0.0001)
+
+=====================================================
+node_200   (n_tips = 42 )
+Tips: Asiatosuchus_depressifrons, Asiatosuchus_germanicus, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, ... (n=42)
+States ordered by probability:
+A (0.9038); AE (0.0868); AF (0.0043); AJ (0.0019); AEF (0.0017); E (0.0006); AC (0.0002); AEM (0.0002); AEJ (0.0002); ACE (0.0001)
+
+=====================================================
+node_201   (n_tips = 2 )
+Tips: Asiatosuchus_germanicus, Prodiplocynodon_langi
+States ordered by probability:
+A (0.9355); AE (0.0521); E (0.0104); AJ (0.0016); AF (0.0001); AEJ (0.0001); AC (0.0001)
+
+=====================================================
+node_202   (n_tips = 40 )
+Tips: Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)
+States ordered by probability:
+A (0.8681); AE (0.1023); E (0.0116); AEF (0.0090); AF (0.0055); AJ (0.0007); AC (0.0006); AEG (0.0005); ACE (0.0003); AEM (0.0003); EF (0.0003); AB (0.0002); AEJ (0.0002); AM (0.0001); ABE (0.0001)
+
+=====================================================
+node_203   (n_tips = 2 )
+Tips: Asiatosuchus_depressifrons, Crocodylus_affinis
+States ordered by probability:
+AE (0.9758); AEJ (0.0083); ACE (0.0058); ABE (0.0023); AEF (0.0022); A (0.0018); AEG (0.0014); E (0.0009); ADE (0.0006); AEI (0.0005); AEH (0.0003)
+
+=====================================================
+node_204   (n_tips = 38 )
+Tips: Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)
+States ordered by probability:
+A (0.7109); AE (0.2227); AEF (0.0465); E (0.0054); AF (0.0051); AEG (0.0029); ACE (0.0016); ABE (0.0011); AJ (0.0009); AEM (0.0008); AM (0.0005); AEJ (0.0004); AC (0.0003); ADE (0.0002); AFM (0.0001); AB (0.0001)
+
+=====================================================
+node_205   (n_tips = 36 )
+Tips: Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)
+States ordered by probability:
+AE (0.3951); AEF (0.3517); A (0.1724); E (0.0359); AEG (0.0214); AEM (0.0040); EF (0.0039); AF (0.0037); AEJ (0.0021); AJ (0.0018); AM (0.0012); CEF (0.0009); EG (0.0008); BEF (0.0006); CE (0.0006); BE (0.0004); EM (0.0004); AFJ (0.0004); ACE (0.0003); AFM (0.0003); AC (0.0002); ABE (0.0002); AD (0.0002); EJ (0.0002); AB (0.0002); ADE (0.0002); EFM (0.0001)
+
+=====================================================
+node_206   (n_tips = 16 )
+Tips: Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)
+States ordered by probability:
+AFM (0.6065); AEM (0.1489); AM (0.0468); FM (0.0465); AGM (0.0395); FGM (0.0259); AJM (0.0227); EFM (0.0216); EM (0.0092); CFM (0.0037); GM (0.0035); AEF (0.0034); EGM (0.0032); BFM (0.0029); DFM (0.0022); ALM (0.0013); AKM (0.0012); FJM (0.0008); AEG (0.0007); ACM (0.0007); FKM (0.0007); CEM (0.0006); CM (0.0006); AF (0.0005); BEM (0.0005); BM (0.0005); FHM (0.0004); ABM (0.0004); JM (0.0004); AFG (0.0004); AFJ (0.0003); EJM (0.0002); CGM (0.0002); AE (0.0002); FMN (0.0002); BGM (0.0002); DM (0.0001); M (0.0001); F (0.0001); EF (0.0001); A (0.0001); AG (0.0001); AIM (0.0001); AMN (0.0001)
+
+=====================================================
+node_207   (n_tips = 4 )
+Tips: Australosuchus_clarkae, Kambara_implexidens, Quinkana_spp, Trilophosuchus_rackhami
+States ordered by probability:
+M (0.9916); EM (0.0049); AM (0.0013); FM (0.0010); JM (0.0004); GM (0.0003); MN (0.0002); CM (0.0001)
+
+=====================================================
+node_208   (n_tips = 3 )
+Tips: Australosuchus_clarkae, Quinkana_spp, Trilophosuchus_rackhami
+States ordered by probability:
+M (0.9993); EM (0.0004)
+
+=====================================================
+node_209   (n_tips = 2 )
+Tips: Quinkana_spp, Trilophosuchus_rackhami
+States ordered by probability:
+M (0.9997); EM (0.0001)
+
+=====================================================
+node_210   (n_tips = 12 )
+Tips: Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, Crocodylus_porosus, ... (n=12)
+States ordered by probability:
+AFM (0.4634); AF (0.1620); AFG (0.1299); AEF (0.0667); AFK (0.0374); FGM (0.0292); F (0.0275); FG (0.0161); AFL (0.0126); FM (0.0116); AFJ (0.0114); CFM (0.0035); BFM (0.0029); EFG (0.0025); EF (0.0022); FGK (0.0020); DFM (0.0019); CF (0.0015); EFM (0.0014); BF (0.0013); CFG (0.0011); BFG (0.0010); FKM (0.0009); FK (0.0008); FGL (0.0008); ACF (0.0008); ABF (0.0006); DF (0.0006); DFG (0.0005); FGJ (0.0004); FHM (0.0004); FJ (0.0004); AFH (0.0004); CEF (0.0004); CFK (0.0004); FGH (0.0003); BFK (0.0003); AFI (0.0003); BEF (0.0003); FL (0.0002); ADF (0.0002); DFK (0.0002); AEG (0.0001); FH (0.0001); AGM (0.0001)
+
+=====================================================
+node_211   (n_tips = 11 )
+Tips: Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)
+States ordered by probability:
+AFM (0.4620); AF (0.1296); AFG (0.0858); AFK (0.0657); AG (0.0607); AEF (0.0238); AFL (0.0233); FG (0.0201); AGK (0.0168); FGM (0.0165); F (0.0136); GM (0.0129); AGL (0.0097); FM (0.0069); G (0.0057); AFJ (0.0044); CFM (0.0037); BFM (0.0033); FGK (0.0031); AEG (0.0025); DFM (0.0021); CF (0.0014); BF (0.0014); FK (0.0014); FKM (0.0012); FGL (0.0012); GK (0.0011); CFG (0.0008); BFG (0.0008); BGM (0.0008); CFK (0.0007); GKM (0.0007); BFK (0.0006); AGM (0.0006); ACF (0.0006); DF (0.0006); CG (0.0006); BG (0.0006); EFG (0.0006); ABF (0.0006); GL (0.0006); AGJ (0.0005); GHM (0.0005); AFH (0.0005); FL (0.0005); CGM (0.0005); EFM (0.0005); AGH (0.0004); FHM (0.0004); FGH (0.0004); DFG (0.0004); DGM (0.0004); FGJ (0.0003); DFK (0.0003); DG (0.0003); FJ (0.0002); AFI (0.0002); ADF (0.0002); CFL (0.0002); BGK (0.0002); GLM (0.0002); BFL (0.0002); CGK (0.0002); FLM (0.0002); GJ (0.0002); GH (0.0002); ACG (0.0002); ABG (0.0002); FH (0.0001); EG (0.0001); CEF (0.0001); EF (0.0001); BGL (0.0001); DGK (0.0001); BEF (0.0001); CGL (0.0001)
+
+=====================================================
+node_212   (n_tips = 7 )
+Tips: Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)
+States ordered by probability:
+F (0.5087); FG (0.2756); G (0.2136); EFG (0.0004); EG (0.0004); FGH (0.0003); EF (0.0002); FH (0.0002); GH (0.0002); FGI (0.0001)
+
+=====================================================
+node_213   (n_tips = 6 )
+Tips: Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)
+States ordered by probability:
+FG (0.7066); G (0.2742); F (0.0161); FGH (0.0013); GH (0.0009); FH (0.0005); EFG (0.0001); FGI (0.0001)
+
+=====================================================
+node_214   (n_tips = 5 )
+Tips: Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus
+States ordered by probability:
+G (0.6141); FG (0.3660); F (0.0171); FGH (0.0011); GH (0.0011); FH (0.0005)
+
+=====================================================
+node_215   (n_tips = 2 )
+Tips: Brochuchus_pigotti, Euthecodon_arambourgii
+States ordered by probability:
+FG (0.9115); G (0.0874); F (0.0004); FGI (0.0002); EFG (0.0001); FGH (0.0001)
+
+=====================================================
+node_216   (n_tips = 3 )
+Tips: Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus
+States ordered by probability:
+GH (0.9543); G (0.0445); FGH (0.0007); FG (0.0002)
+
+=====================================================
+node_217   (n_tips = 2 )
+Tips: Osteolaemus_osborni, Osteolaemus_tetraspis
+States ordered by probability:
+G (0.9982); GH (0.0016); FG (0.0001)
+
+=====================================================
+node_218   (n_tips = 4 )
+Tips: Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer
+States ordered by probability:
+AFM (0.4626); AFK (0.2334); AFL (0.0863); AGK (0.0610); AGL (0.0420); FGM (0.0095); FGK (0.0085); BFK (0.0069); BFM (0.0063); CFM (0.0054); CFK (0.0052); FKM (0.0048); FGL (0.0039); BGM (0.0039); DFM (0.0035); DFK (0.0032); FKL (0.0030); AFG (0.0029); GKM (0.0028); BGK (0.0026); GLM (0.0026); BFL (0.0025); FLM (0.0025); CGM (0.0023); AGM (0.0022); DGM (0.0019); CFL (0.0019); BGL (0.0018); CGK (0.0018); FHK (0.0017); AHK (0.0016); GKL (0.0016); DGK (0.0013); CGL (0.0013); GHM (0.0012); DFL (0.0012); GHK (0.0011); FK (0.0010); DGL (0.0009); FHM (0.0008); AFJ (0.0008); GM (0.0006); GHL (0.0006); FM (0.0006); ABF (0.0005); GK (0.0005); FHL (0.0005); FL (0.0004); AGJ (0.0003); GL (0.0003); AF (0.0003); AEF (0.0003); ACF (0.0002); FJK (0.0002); AFH (0.0002); FJL (0.0002); ABG (0.0002); GJL (0.0001); ADF (0.0001); GJK (0.0001); AGH (0.0001); AHM (0.0001)
+
+=====================================================
+node_219   (n_tips = 3 )
+Tips: Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer
+States ordered by probability:
+AF (0.3326); ABF (0.1683); AFG (0.1378); ACF (0.0743); AFH (0.0531); AG (0.0457); ADF (0.0420); ABG (0.0237); BFG (0.0138); AGH (0.0124); ACG (0.0105); BF (0.0092); CFG (0.0085); CF (0.0067); DFG (0.0067); ADG (0.0059); BG (0.0053); BCF (0.0050); DF (0.0045); BDF (0.0039); CG (0.0032); BFH (0.0028); BGH (0.0027); DG (0.0025); BCG (0.0025); BDG (0.0021); CFH (0.0018); CGH (0.0016); CDF (0.0015); DFH (0.0014); DGH (0.0013); AFM (0.0013); AH (0.0008); CDG (0.0007); AFK (0.0007); ABH (0.0004); AFJ (0.0003); AFL (0.0002); AGJ (0.0002); AGK (0.0002); ACH (0.0002); BH (0.0001); AGL (0.0001); FG (0.0001); FGJ (0.0001); ADH (0.0001)
+
+=====================================================
+node_220   (n_tips = 2 )
+Tips: Crocodylus_acutus, Crocodylus_rhombifer
+States ordered by probability:
+ABC (0.3902); ABD (0.2778); AB (0.2666); BCD (0.0257); BC (0.0177); BD (0.0131); A (0.0030); AC (0.0017); ACD (0.0014); AD (0.0010); ABF (0.0007); ABJ (0.0002); ABM (0.0002); B (0.0001); ABG (0.0001); C (0.0001)
+
+=====================================================
+node_221   (n_tips = 20 )
+Tips: Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=20)
+States ordered by probability:
+E (0.6517); AE (0.2533); AEF (0.0774); EF (0.0069); A (0.0044); AEJ (0.0033); EJ (0.0016); AJ (0.0003); EFJ (0.0002); ADE (0.0002); F (0.0001); EG (0.0001)
+
+=====================================================
+node_222   (n_tips = 19 )
+Tips: Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)
+States ordered by probability:
+E (0.6029); AE (0.2143); AEF (0.1448); EF (0.0199); AEJ (0.0074); EJ (0.0049); EFJ (0.0017); AF (0.0015); A (0.0009); AJ (0.0004); ADE (0.0003); AFJ (0.0003); EG (0.0001); AEG (0.0001); ACE (0.0001)
+
+=====================================================
+node_223   (n_tips = 18 )
+Tips: Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)
+States ordered by probability:
+E (0.4061); AE (0.2479); AEF (0.1639); AF (0.0787); EF (0.0586); EJ (0.0108); AFJ (0.0073); AEJ (0.0060); EFJ (0.0060); AJ (0.0058); A (0.0051); ADE (0.0008); J (0.0006); FJ (0.0005); F (0.0005); ACE (0.0003); AEG (0.0002); EG (0.0002); ADF (0.0001)
+
+=====================================================
+node_224   (n_tips = 17 )
+Tips: Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)
+States ordered by probability:
+EF (0.2999); E (0.2681); AEF (0.2546); AF (0.0584); F (0.0356); EFJ (0.0348); AFJ (0.0223); AE (0.0123); EJ (0.0056); FJ (0.0032); AEJ (0.0021); DEF (0.0007); EG (0.0006); ADF (0.0003); EFG (0.0002); J (0.0002); AJ (0.0002); AEG (0.0001)
+
+=====================================================
+node_225   (n_tips = 16 )
+Tips: Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)
+States ordered by probability:
+E (0.3003); AEF (0.2560); EF (0.2123); EFJ (0.0692); AF (0.0446); AFJ (0.0354); F (0.0319); EJ (0.0221); AE (0.0151); AEJ (0.0049); FJ (0.0046); DEF (0.0009); ADF (0.0007); J (0.0004); AJ (0.0004); EFG (0.0003); EG (0.0002); EFI (0.0001)
+
+=====================================================
+node_226   (n_tips = 12 )
+Tips: Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)
+States ordered by probability:
+E (0.2537); AEF (0.2262); EF (0.1448); EFJ (0.1227); AFJ (0.0661); AF (0.0631); EJ (0.0539); F (0.0311); AE (0.0120); AEJ (0.0106); FJ (0.0101); ADF (0.0022); DEF (0.0012); J (0.0004); EFG (0.0002); EFI (0.0002); AFK (0.0002); EFK (0.0002); EG (0.0001); AJ (0.0001)
+
+=====================================================
+node_227   (n_tips = 11 )
+Tips: Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=11)
+States ordered by probability:
+EF (0.3629); AEF (0.2346); AF (0.1692); E (0.1633); F (0.0371); ADF (0.0102); AE (0.0065); EFJ (0.0052); DEF (0.0030); EJ (0.0022); AFJ (0.0015); FJ (0.0007); AEJ (0.0005); AFK (0.0005); EFK (0.0005); ACF (0.0004); EG (0.0004); EFG (0.0003); DF (0.0002); ABF (0.0002)
+
+=====================================================
+node_228   (n_tips = 10 )
+Tips: Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=10)
+States ordered by probability:
+AEF (0.3019); EF (0.2337); E (0.2229); AF (0.1438); AE (0.0512); ADF (0.0257); DEF (0.0071); EFJ (0.0024); A (0.0021); AFJ (0.0014); EJ (0.0013); EFK (0.0011); ACF (0.0009); AFK (0.0009); AEJ (0.0007); ADE (0.0006); ABF (0.0004); F (0.0003); AJ (0.0003); EFG (0.0002); DE (0.0002); EG (0.0001); AK (0.0001)
+
+=====================================================
+node_229   (n_tips = 8 )
+Tips: Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)
+States ordered by probability:
+AEF (0.3639); EF (0.1772); E (0.1543); AF (0.1325); AE (0.0686); ADF (0.0623); DEF (0.0163); A (0.0060); EFK (0.0025); ADE (0.0024); EFJ (0.0024); ACF (0.0023); AFK (0.0021); AFJ (0.0013); AEJ (0.0012); ABF (0.0009); EJ (0.0007); EFG (0.0005); DE (0.0004); EG (0.0003); AEG (0.0003); AJ (0.0003); AD (0.0002); AFG (0.0001); F (0.0001); AK (0.0001); ADJ (0.0001); EFI (0.0001)
+
+=====================================================
+node_230   (n_tips = 5 )
+Tips: Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus
+States ordered by probability:
+DFK (0.5186); AFK (0.1424); FK (0.1264); F (0.0393); DF (0.0379); EFK (0.0357); DEF (0.0298); EF (0.0149); AEF (0.0143); ADF (0.0050); AFJ (0.0046); DFJ (0.0044); AF (0.0043); DFI (0.0034); DFG (0.0025); CFK (0.0023); FJK (0.0019); FGK (0.0017); FIK (0.0015); BFK (0.0013); FJ (0.0013); FI (0.0011); FG (0.0007); DFL (0.0006); FKL (0.0006); EFJ (0.0006); EFI (0.0004); FHK (0.0004); AFI (0.0004); DFH (0.0003); AFG (0.0002); FL (0.0002); EFG (0.0002); AEK (0.0001); CDF (0.0001)
+
+=====================================================
+node_231   (n_tips = 4 )
+Tips: Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus
+States ordered by probability:
+DK (0.9164); ADK (0.0250); DFK (0.0186); DF (0.0123); DEK (0.0092); DE (0.0078); DJ (0.0014); DJK (0.0013); DIK (0.0011); ADE (0.0010); DI (0.0008); ADF (0.0007); DGK (0.0007); CDK (0.0006); DG (0.0006); DKL (0.0006); BDK (0.0005); ADJ (0.0004); DEF (0.0003); DL (0.0001); DHK (0.0001); D (0.0001)
+
+=====================================================
+node_232   (n_tips = 3 )
+Tips: Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus
+States ordered by probability:
+DK (0.9169); ADK (0.0245); DFK (0.0186); DF (0.0123); DEK (0.0092); DE (0.0078); DJ (0.0014); DJK (0.0013); DIK (0.0011); ADE (0.0009); DI (0.0008); ADF (0.0007); DGK (0.0007); CDK (0.0006); DG (0.0006); DKL (0.0006); BDK (0.0005); ADJ (0.0004); DEF (0.0003); DL (0.0001); DHK (0.0001); D (0.0001)
+
+=====================================================
+node_233   (n_tips = 2 )
+Tips: Gavialis_gangeticus, Gavialis_lewisi
+States ordered by probability:
+K (0.9797); FK (0.0063); DK (0.0043); EK (0.0038); AK (0.0032); JK (0.0008); IK (0.0006); KL (0.0003); GK (0.0003)
+
+=====================================================
+node_234   (n_tips = 3 )
+Tips: Eothoracosaurus_mississippiensi, Thoracosaurus_macrorhynchus, Thoracosaurus_neocesariensis
+States ordered by probability:
+AE (0.9095); A (0.0782); AEF (0.0094); AF (0.0011); AEJ (0.0008); AJ (0.0004); ACE (0.0002); AEG (0.0002)
+
+=====================================================
+node_235   (n_tips = 2 )
+Tips: Eothoracosaurus_mississippiensi, Thoracosaurus_neocesariensis
+States ordered by probability:
+A (0.9950); AE (0.0038); AF (0.0011); AJ (0.0001)
+
+=====================================================
+node_236   (n_tips = 2 )
+Tips: Eosuchus_lerichei, Eosuchus_minor
+States ordered by probability:
+AE (0.9796); E (0.0085); A (0.0044); AEJ (0.0030); AEF (0.0018); ACE (0.0010); AEG (0.0006); ABE (0.0004); AEI (0.0003); EJ (0.0002); AEH (0.0001); AJ (0.0001); ADE (0.0001)
+
+=====================================================
+node_237   (n_tips = 4 )
+Tips: Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis
+States ordered by probability:
+EF (0.2618); E (0.1913); EJ (0.1776); EFL (0.1479); EFJ (0.1130); EJL (0.0791); FJL (0.0083); EL (0.0068); EFK (0.0019); EFG (0.0019); EFI (0.0018); FJ (0.0015); EI (0.0012); EIJ (0.0010); J (0.0006); JL (0.0006); EK (0.0006); EG (0.0006); EJK (0.0004); EGJ (0.0004); AEJ (0.0004); F (0.0002); EIL (0.0002); AEF (0.0001); EGL (0.0001); EFH (0.0001)
+
+=====================================================
+node_238   (n_tips = 2 )
+Tips: Gavialosuchus_eggenburgensis, Toyotamaphimeia_machikanensis
+States ordered by probability:
+EJ (0.5812); E (0.4035); J (0.0051); EFJ (0.0041); EF (0.0013); EI (0.0011); EJL (0.0010); EIJ (0.0009); AEJ (0.0004); EGJ (0.0004); EJK (0.0003); EK (0.0002); EG (0.0002)
+
+=====================================================
+node_239   (n_tips = 2 )
+Tips: Tomistoma_lusitanica, Tomistoma_schlegelii
+States ordered by probability:
+EFL (0.7441); FL (0.0729); EF (0.0527); EL (0.0349); EFJ (0.0311); EJ (0.0141); EJL (0.0112); F (0.0101); EFK (0.0078); EFI (0.0060); EFG (0.0026); EK (0.0018); EI (0.0018); FJL (0.0015); E (0.0015); FJ (0.0012); EIL (0.0010); EKL (0.0009); FK (0.0004); FKL (0.0003); EG (0.0003); JL (0.0003); FIL (0.0003); FI (0.0003); EGL (0.0002); FGL (0.0002); FG (0.0002); L (0.0001)
+
+=====================================================
+node_240   (n_tips = 2 )
+Tips: Brachyuranochampsa_eversolei, Crocodylus_acer
+States ordered by probability:
+A (0.9955); AC (0.0018); AE (0.0012); AB (0.0007); AJ (0.0006); AD (0.0002)
+
+=====================================================
+node_241   (n_tips = 3 )
+Tips: Deinosuchus_riograndensis, Deinosuchus_schwimmeri, Leidyosuchus_canadensis
+States ordered by probability:
+A (0.9979); AC (0.0010); AJ (0.0004); AE (0.0003); AB (0.0003)
+
+=====================================================
+node_242   (n_tips = 2 )
+Tips: Deinosuchus_riograndensis, Deinosuchus_schwimmeri
+States ordered by probability:
+A (0.9993); AC (0.0004); AJ (0.0001); AB (0.0001); AE (0.0001)
+
+=====================================================
+node_243   (n_tips = 4 )
+Tips: Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis
+States ordered by probability:
+AEJ (0.4758); AJ (0.4757); J (0.0252); EJ (0.0224); ACJ (0.0003); AE (0.0001); AFJ (0.0001); A (0.0001)
+
+=====================================================
+node_244   (n_tips = 3 )
+Tips: Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis
+States ordered by probability:
+AEJ (0.6149); AJ (0.3437); EJ (0.0241); J (0.0161); ACJ (0.0003); AE (0.0002); AFJ (0.0002); AJL (0.0001); A (0.0001)
+
+=====================================================
+node_245   (n_tips = 2 )
+Tips: Boverisuchus_magnifrons, Boverisuchus_vorax
+States ordered by probability:
+AE (0.9291); AEJ (0.0498); AJ (0.0096); A (0.0055); EJ (0.0014); ACE (0.0013); AEF (0.0009); ABE (0.0006); AEI (0.0005); AEG (0.0004); E (0.0003); ADE (0.0002); AEH (0.0001)
+
+=====================================================
+node_246   (n_tips = 13 )
+Tips: Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=13)
+States ordered by probability:
+AE (0.8922); AEF (0.0424); A (0.0304); AEJ (0.0144); ACE (0.0072); AF (0.0032); AEG (0.0031); AJ (0.0019); ABE (0.0017); ADE (0.0011); AEI (0.0008); AEH (0.0007); E (0.0003)
+
+=====================================================
+node_247   (n_tips = 6 )
+Tips: Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=6)
+States ordered by probability:
+A (0.9921); AE (0.0044); AJ (0.0013); AC (0.0008); AF (0.0006); AG (0.0003); AB (0.0002); AD (0.0001)
+
+=====================================================
+node_248   (n_tips = 5 )
+Tips: Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_threeensis, Borealosuchus_wilsoni
+States ordered by probability:
+A (0.9984); AE (0.0008); AJ (0.0003); AC (0.0002); AF (0.0001)
+
+=====================================================
+node_249   (n_tips = 4 )
+Tips: Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_threeensis, Borealosuchus_wilsoni
+States ordered by probability:
+A (0.9995); AE (0.0002); AC (0.0001)
+
+=====================================================
+node_250   (n_tips = 3 )
+Tips: Borealosuchus_acutidentatus, Borealosuchus_threeensis, Borealosuchus_wilsoni
+States ordered by probability:
+A (0.9998)
+
+=====================================================
+node_251   (n_tips = 2 )
+Tips: Borealosuchus_threeensis, Borealosuchus_wilsoni
+States ordered by probability:
+A (0.9999)
+
+=====================================================
+node_252   (n_tips = 7 )
+Tips: Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=7)
+States ordered by probability:
+E (0.9256); EF (0.0604); AE (0.0085); EJ (0.0019); AEF (0.0013); CE (0.0005); EG (0.0005); EFJ (0.0003); EFG (0.0002); EI (0.0002); BE (0.0001)
+
+=====================================================
+node_253   (n_tips = 6 )
+Tips: Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=6)
+States ordered by probability:
+E (0.8821); EF (0.1133); AE (0.0019); AEF (0.0008); EJ (0.0007); EFJ (0.0003); EG (0.0002); EFG (0.0002); EI (0.0001); CE (0.0001)
+
+=====================================================
+node_254   (n_tips = 5 )
+Tips: Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis
+States ordered by probability:
+E (0.7747); EF (0.2227); AEF (0.0007); AE (0.0005); EJ (0.0003); EFJ (0.0003); EFG (0.0002); EI (0.0002); EFI (0.0001); EG (0.0001)
+
+=====================================================
+node_255   (n_tips = 4 )
+Tips: Diplocynodon_deponiae, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis
+States ordered by probability:
+EF (0.8860); E (0.1109); AEF (0.0007); EFJ (0.0006); EFI (0.0005); EFG (0.0004); EFK (0.0002); EI (0.0002); EFH (0.0001)
+
+=====================================================
+node_256   (n_tips = 2 )
+Tips: Diplocynodon_deponiae, Diplocynodon_ratelii
+States ordered by probability:
+E (0.5350); EF (0.4630); AEF (0.0004); EFJ (0.0004); EFI (0.0003); EFG (0.0002); EI (0.0001); EJ (0.0001); EFK (0.0001)
+
+=====================================================
+node_257   (n_tips = 2 )
+Tips: Diplocynodon_muelleri, Diplocynodon_tormis
+States ordered by probability:
+F (0.9415); EF (0.0571); FG (0.0003); FI (0.0003); FK (0.0001); FJ (0.0001)
+

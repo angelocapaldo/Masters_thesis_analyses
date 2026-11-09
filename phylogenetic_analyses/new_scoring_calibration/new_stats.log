@@ -1,0 +1,746 @@
+Constraints is ON 
+Random seed is 1 
+0 trees in memory 
+Repl. Algor.     Tree        Score       Best Score   Time       Rearrangs.
+1     FUSE    1000           ------      1165         0:04:22    14,793,248,416 
+Completed search.
+Total rearrangements examined: 14,793,248,416. 
+Constraints enforced during search. 
+No target score defined.  Best score hit 1 times.
+Best score: 1165.  240 trees retained. 
+Time 263.05 secs. 
+Reading from C:\Users\angiu\Documents\pal\TNT\tnt-windows\TNT-bin\trees\biogeo\bio+riomannion\extra\wstats.run 
+Running C:\Users\angiu\Documents\pal\TNT\tnt-windows\TNT-bin\trees\biogeo\bio+riomannion\extra\wstats.run (with no arguments) 
+Macro language is ON 
+Macros: 42.7 Kb in use, 59.6 Kb free
+Report is ON 
+Consistency index  
+       ÚÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄ¿
+       ³    +0³    +1³    +2³    +3³    +4³    +5³    +6³    +7³    +8³    +9³
+ÚÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄ´
+³     0³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    10³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    20³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    30³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.261³ 0.264³ 0.264³ 0.264³ 0.264³
+³    40³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    50³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    60³ 0.264³ 0.264³ 0.263³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.262³
+³    70³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    80³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³    90³ 0.264³ 0.264³ 0.262³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   100³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   110³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   120³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   130³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.262³ 0.264³ 0.264³ 0.264³ 0.264³
+³   140³ 0.264³ 0.264³ 0.263³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   150³ 0.264³ 0.264³ 0.264³ 0.264³ 0.261³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   160³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.263³ 0.264³ 0.264³ 0.264³
+³   170³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   180³ 0.264³ 0.264³ 0.263³ 0.262³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   190³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.262³ 0.264³
+³   200³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   210³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.263³ 0.262³ 0.261³ 0.264³
+³   220³ 0.262³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+³   230³ 0.264³ 0.261³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³ 0.264³
+ÀÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÙ 
+Retention index  
+       ÚÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄÂÄÄÄÄÄÄ¿
+       ³    +0³    +1³    +2³    +3³    +4³    +5³    +6³    +7³    +8³    +9³
+ÚÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄ´
+³     0³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³    10³ 0.741³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.741³
+³    20³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³    30³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.738³ 0.742³ 0.742³ 0.742³ 0.742³
+³    40³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³    50³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³    60³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.739³
+³    70³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³    80³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³    90³ 0.742³ 0.742³ 0.738³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   100³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   110³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   120³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³
+³   130³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.738³ 0.742³ 0.742³ 0.742³ 0.742³
+³   140³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   150³ 0.742³ 0.742³ 0.742³ 0.742³ 0.738³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   160³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³
+³   170³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³
+³   180³ 0.742³ 0.742³ 0.741³ 0.739³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   190³ 0.742³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.741³ 0.739³ 0.742³
+³   200³ 0.742³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   210³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.741³ 0.741³ 0.739³ 0.738³ 0.742³
+³   220³ 0.738³ 0.742³ 0.742³ 0.741³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+³   230³ 0.742³ 0.738³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³ 0.742³
+ÀÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÙ 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when max. branch length = 0 ) 
+ 
+WARNING: 
+Low memory majority rule can't be done with temporary collapsing
+Consensus algorithm will be set to a more RAM-intensive type.
+Else, you can condense trees (excluding taxa, if needed) and
+then consense with low-mem algorithms 
+ 
+ 
+Majority rule tree (from 240 trees, cut 50) 
+   ÚÄÄ Bernissartia_fagesii
+   ³          ÚÄÄ Shamosuchus_djadochtaensis
+   ³     ÚÄÄ99´    ÚÄÄ Acynodon_iberoccitanus
+   ³     ³    ÀÄÄ99´    ÚÄÄ Acynodon_adriaticus
+ÃÄÄ´     ³         ÀÄÄ99´    ÚÄÄ Hylaeochampsa_vectiana
+   ³     ³              ÀÄÄ99´    ÚÄÄ Pietraroiasuchus_ormezzanoi
+   ³     ³                   ÀÄÄ99ÁÄÄ Iharkutosuchus_makadii
+   ³     ³    ÚÄÄ Pachycheilosuchus_trinquei
+   ÀÄÄ100´    ³          ÚÄÄ Allodaposuchus_precedens
+         ³    ³          ³          ÚÄÄ Lohuecosuchus_megadontos
+         ³    ³    ÚÄÄ100´    ÚÄÄ100ÁÄÄ Lohuecosuchus_mechinorum
+         ³    ³    ³     ÀÄÄ97´    ÚÄÄ Arenysuchus_gascabadiolorum
+         ³    ³    ³          ÀÄÄ97ÁÄÄ Agaresuchus_subjuniperus
+         ÀÄÄ97´    ³              ÚÄÄ Borealosuchus_sternbergii
+              ³    ³         ÚÄÄ99´    ÚÄÄ Borealosuchus_griffithi
+              ³    ³         ³    ÀÄÄ99´     ÚÄÄ Borealosuchus_formidabilis
+              ³    ³         ³         ÀÄÄ100´     ÚÄÄ Borealosuchus_wilsoni
+              ³    ³         ³               ÀÄÄ100ÅÄÄ Borealosuchus_threeensis
+              ³    ³    ÚÄÄ92´                     ÀÄÄ Borealosuchus_acutidentatus
+              ÀÄÄ97´    ³    ³    ÚÄÄ Diplocynodon_remensis
+                   ³    ³    ³    ³    ÚÄÄ Diplocynodon_darwini
+                   ³    ³    ÀÄÄ94´    ³    ÚÄÄ Diplocynodon_hantoniensis
+                   ³    ³         ÀÄÄ97´    ³    ÚÄÄ Diplocynodon_ratelii
+                   ³    ³              ÀÄÄ96´    ÃÄÄ Diplocynodon_deponiae
+                   ³    ³                   ÀÄÄ96´    ÚÄÄ Diplocynodon_tormis
+                   ³    ³                        ÀÄÄ69ÁÄÄ Diplocynodon_muelleri
+                   ³    ³         ÚÄÄ Planocrania_hengdongensis
+                   ³    ³    ÚÄÄ98´    ÚÄÄ Planocrania_datangensis
+                   ÀÄÄ97´    ³    ÀÄÄ99´     ÚÄÄ Boverisuchus_vorax
+                        ³    ³         ÀÄÄ100ÁÄÄ Boverisuchus_magnifrons
+                        ³    ³         ÚÄÄ Leidyosuchus_canadensis
+                        ³    ³    ÚÄÄ58´     ÚÄÄ Deinosuchus_schwimmeri
+                        ³    ³    ³    ÀÄÄ100ÁÄÄ Deinosuchus_riograndensis
+                        ³    ³    ³         ÚÄÄ Prodiplocynodon_langi
+                        ³    ³    ³         ÃÄÄ Asiatosuchus_germanicus
+                        ³    ³    ³         ³         ÚÄÄ Crocodylus_affinis
+                        ³    ³    ³         ³    ÚÄÄ98ÁÄÄ Asiatosuchus_depressifrons
+                        ÀÄÄ91´    ³    ÚÄÄ95´    ³         ÚÄÄ Crocodylus_acer
+                             ³    ³    ³    ³    ³    ÚÄÄ92ÁÄÄ Brachyuranochampsa_eversolei
+                             ³    ³    ³    ³    ³    ³         ÚÄÄ Crocodylus_megarhinus
+                             ³    ³    ³    ÀÄÄ93´    ³         ³    ÚÄÄ Kambara_implexidens
+                             ³    ³    ³         ³    ³         ÃÄÄ96´    ÚÄÄ Australosuchus_clarkae
+                             ³    ³    ³         ³    ³         ³    ÀÄÄ95´    ÚÄÄ Trilophosuchus_rackhami
+                             ³    ³    ³         ³    ³    ÚÄÄ94´         ÀÄÄ97ÁÄÄ Quinkana_spp
+                             ³    ³    ³         ÀÄÄ89´    ³    ³          ÚÄÄ Crocodylus_porosus
+                             ³    ³    ³              ³    ³    ³    ÚÄÄ100´     ÚÄÄ Crocodylus_rhombifer
+                             ³    ³    ³              ³    ³    ³    ³     ÀÄÄ100ÁÄÄ Crocodylus_niloticus
+                             ÀÄÄ52´    ³              ³    ³    ÀÄÄ99´    ÚÄÄ Mecistops_cataphractus
+                                  ³    ³              ³    ³         ³    ³    ÚÄÄ Rimasuchus_lloydi
+                                  ³    ³              ³    ³         ÀÄÄ99´    ³     ÚÄÄ Euthecodon_arambourgii
+                                  ³    ³              ÀÄÄ95´              ÀÄÄ99ÅÄÄ100ÁÄÄ Brochuchus_pigotti
+                                  ³    ³                   ³                   ³     ÚÄÄ Voay_robustus
+                                  ³    ³                   ³                   ÀÄÄ100´     ÚÄÄ Osteolaemus_tetraspis
+                                  ³    ³                   ³                         ÀÄÄ100ÁÄÄ Osteolaemus_osborni
+                                  ³    ³                   ³    ÚÄÄ Kentisuchus_spenceri
+                                  ³    ³                   ³    ³    ÚÄÄ Dollosuchoides_densmorei
+                                  ³    ³                   ÀÄÄ95´    ³    ÚÄÄ Thecachampsa_antiqua
+                                  ³    ³                        ÀÄÄ95´    ³    ÚÄÄ Tomistoma_cairense
+                                  ³    ³                             ÀÄÄ95´    ³               ÚÄÄ Toyotamaphimeia_machikanensis
+                                  ³    ³                                  ³    ³         ÚÄÄ100ÁÄÄ Gavialosuchus_eggenburgensis
+                                  ³    ³                                  ÀÄÄ95´    ÚÄÄ98´    ÚÄÄ Tomistoma_schlegelii
+                                  ³    ³                                       ³    ³    ÀÄÄ59ÁÄÄ Tomistoma_lusitanica
+                                  ÀÄÄ95´                                       ÀÄÄ94´    ÚÄÄ Maomingosuchus_petrolica
+                                       ³                                            ³    ³    ÚÄÄ Paratomistoma_courti
+                                       ³                                            ÀÄÄ94´    ³           ÚÄÄ Eosuchus_minor
+                                       ³                                                 ÀÄÄ70´     ÚÄÄ100ÁÄÄ Eosuchus_lerichei
+                                       ³                                                      ³     ³         ÚÄÄ Thoracosaurus_neocesariensis
+                                       ³                                                      ÀÄÄ100´    ÚÄÄ99ÅÄÄ Thoracosaurus_macrorhynchus
+                                       ³                                                            ³    ³    ÀÄÄ Eothoracosaurus_mississippiensi
+                                       ³                                                            ÀÄÄ97´     ÚÄÄ Eogavialis_africanum
+                                       ³                                                                 ³     ³     ÚÄÄ Piscogavialis_jugaliperforatus
+                                       ³                                                                 ÀÄÄ100´     ÃÄÄ Gryposuchus_colombianus
+                                       ³                                                                       ÀÄÄ100´    ÚÄÄ Gavialis_lewisi
+                                       ³                                                                             ÀÄÄ89ÁÄÄ Gavialis_gangeticus
+                                       ³         ÚÄÄ Protoalligator_huiningensis
+                                       ³         ³          ÚÄÄ Jiangxisuchus_nankangensis
+                                       ³    ÚÄÄ96´     ÚÄÄ73ÁÄÄ Eoalligator_chunyii
+                                       ³    ³    ÀÄÄ100´     ÚÄÄ Dongnanosuchus_hsui
+                                       ³    ³          ÀÄÄ100´     ÚÄÄ Orientalosuchus_naduongensis
+                                       ³    ³                ÀÄÄ100ÁÄÄ Krabisuchus_siamogallicus
+                                       ³    ³               ÚÄÄ Stangerochampsa_mccabei
+                                       ³    ³               ÃÄÄ Albertochampsa_langstoni
+                                       ³    ³          ÚÄÄ56´     ÚÄÄ Brachychampsa_sealeyi
+                                       ³    ³          ³    ÀÄÄ100ÁÄÄ Brachychampsa_montana
+                                       ³    ³          ³              ÚÄÄ Procaimanoidea_utahensis
+                                       ³    ³          ³         ÚÄÄ97ÁÄÄ Procaimanoidea_kayi
+                                       ÀÄÄ99´          ³         ³         ÚÄÄ Navajosuchus_mooki
+                                            ³     ÚÄÄ51´    ÚÄÄ86´    ÚÄÄ97ÁÄÄ Ceratosuchus_burdoshi
+                                            ³     ³    ³    ³    ³    ³         ÚÄÄ Allognathosuchus_wartheni
+                                            ³     ³    ³    ³    ÀÄÄ76´    ÚÄÄ98ÁÄÄ Allognathosuchus_polyodon
+                                            ³     ³    ³    ³         ÀÄÄ77´    ÚÄÄ Wannaganosuchus_brachymanus
+                                            ³     ³    ³    ³              ÀÄÄ76´    ÚÄÄ Hassiacosuchus_haupti
+                                            ³     ³    ÀÄÄ70´                   ÀÄÄ78ÁÄÄ Arambourgia_gaudryi
+                                            ³     ³         ³              ÚÄÄ Alligator_prenasalis
+                                            ³     ³         ³         ÚÄÄ60ÁÄÄ Alligator_mcgrewi
+                                            ³     ³         ³    ÚÄÄ65´    ÚÄÄ Eocaiman_cavernensis
+                                            ÀÄÄ100´         ³    ³    ÀÄÄ99´    ÚÄÄ Eocaiman_palaeocenicus
+                                                  ³         ÀÄÄ81´         ÀÄÄ63ÁÄÄ Eocaiman_itaboraiensis
+                                                  ³              ³    ÚÄÄ Alligator_olseni
+                                                  ³              ÀÄÄ87´    ÚÄÄ Alligator_sinensis
+                                                  ³                   ÀÄÄ88´     ÚÄÄ Alligator_thomsoni
+                                                  ³                        ÀÄÄ100ÅÄÄ Alligator_mississippiensis
+                                                  ³                              ÀÄÄ Alligator_mefferdi
+                                                  ³    ÚÄÄ Protocaiman_peligrensis
+                                                  ³    ³    ÚÄÄ Chinatichampsus_wilsonorum
+                                                  ÀÄÄ81´    ³    ÚÄÄ Gnatusuchus_pebasensis
+                                                       ÀÄÄ60´    ³    ÚÄÄ Globidentosuchus_brachyrostris
+                                                            ÀÄÄ81´    ³    ÚÄÄ Kuttanacaiman_iquitosensis
+                                                                 ³    ³    ³         ÚÄÄ Necrosuchus_ionensis
+                                                                 ÀÄÄ52´    ³         ³    ÚÄÄ Tsoabichi_greenriverensis
+                                                                      ³    ³    ÚÄÄ54´    ³          ÚÄÄ Paleosuchus_trigonatus
+                                                                      ÀÄÄ82´    ³    ÀÄÄ57´    ÚÄÄ100ÁÄÄ Paleosuchus_palpebrosus
+                                                                           ³    ³         ÀÄÄ72´     ÚÄÄ Bottosaurus_harlani
+                                                                           ³    ³              ÀÄÄ100ÁÄÄ Bottosaurus_fustidens
+                                                                           ³    ³    ÚÄÄ Centenariosuchus_gilmorei
+                                                                           ÀÄÄ80´    ³           ÚÄÄ Purussaurus_neivensis
+                                                                                ³    ³     ÚÄÄ100´     ÚÄÄ Purussaurus_mirandai
+                                                                                ³    ³     ³     ÀÄÄ100ÁÄÄ Purussaurus_brasiliensis
+                                                                                ³    ÃÄÄ100´     ÚÄÄ Mourasuchus_atopus
+                                                                                ÀÄÄ69´     ÀÄÄ100ÅÄÄ Mourasuchus_arendsi
+                                                                                     ³           ÀÄÄ Mourasuchus_amazonensis
+                                                                                     ³    ÚÄÄ Melanosuchus_niger
+                                                                                     ³    ³    ÚÄÄ Caiman_latirostris
+                                                                                     ÀÄÄ86´    ³         ÚÄÄ Caiman_yacare
+                                                                                          ÀÄÄ90´    ÚÄÄ97ÁÄÄ Caiman_crocodilus
+                                                                                               ÀÄÄ92´    ÚÄÄ Caiman_brevirostris
+                                                                                                    ÀÄÄ98´     ÚÄÄ La_venta_Caiman
+                                                                                                         ÀÄÄ100ÁÄÄ Caiman_wannlangstoni
+Time 0.03 secs. 
+ 
+Note: for consensus calculation, trees will be 
+temporarily collapsed (when max. branch length = 0 ) 
+Majority rule tree (from 240 trees, cut 50) calculated as tree 240 
+Time 0.02 secs. 
+ 
+Group freqs., 1000 replicates, cut=50 (tree 0) - Standard Bootstrap 
+   ÚÄÄ Bernissartia_fagesii
+   ³          ÚÄÄ Shamosuchus_djadochtaensis
+   ³     ÚÄÄ42´    ÚÄÄ Acynodon_iberoccitanus
+   ³     ³    ÀÄÄ47´    ÚÄÄ Acynodon_adriaticus
+ÃÄÄ´     ³         ÀÄÄ35´    ÚÄÄ Hylaeochampsa_vectiana
+   ³     ³              ÀÄÄ32´    ÚÄÄ Pietraroiasuchus_ormezzanoi
+   ³     ³                   ÀÄÄ31ÁÄÄ Iharkutosuchus_makadii
+   ³     ³    ÚÄÄ Pachycheilosuchus_trinquei
+   ÀÄÄ100´    ³         ÚÄÄ Allodaposuchus_precedens
+         ³    ³         ³         ÚÄÄ Lohuecosuchus_megadontos
+         ³    ³    ÚÄÄ86´    ÚÄÄ53ÁÄÄ Lohuecosuchus_mechinorum
+         ³    ³    ³    ÀÄÄ48´    ÚÄÄ Arenysuchus_gascabadiolorum
+         ³    ³    ³         ÀÄÄ37ÁÄÄ Agaresuchus_subjuniperus
+         ÀÄÄ42´    ³             ÚÄÄ Borealosuchus_sternbergii
+              ³    ³        ÚÄÄ49´    ÚÄÄ Borealosuchus_griffithi
+              ³    ³        ³    ÀÄÄ36´    ÚÄÄ Borealosuchus_formidabilis
+              ³    ³        ³         ÀÄÄ64´    ÚÄÄ Borealosuchus_wilsoni
+              ³    ³        ³              ÀÄÄ85ÅÄÄ Borealosuchus_threeensis
+              ³    ³    ÚÄÄ9´                   ÀÄÄ Borealosuchus_acutidentatus
+              ÀÄÄ28´    ³   ³    ÚÄÄ Diplocynodon_remensis
+                   ³    ³   ³    ³    ÚÄÄ Diplocynodon_darwini
+                   ³    ³   ÀÄÄ21´    ³    ÚÄÄ Diplocynodon_hantoniensis
+                   ³    ³        ÀÄÄ39´    ³    ÚÄÄ Diplocynodon_ratelii
+                   ³    ³             ÀÄÄ19´    ÃÄÄ Diplocynodon_deponiae
+                   ³    ³                  ÀÄÄ13´    ÚÄÄ Diplocynodon_tormis
+                   ³    ³                       ÀÄÄ43ÁÄÄ Diplocynodon_muelleri
+                   ³    ³        ÚÄÄ Planocrania_hengdongensis
+                   ³    ³   ÚÄÄ46´    ÚÄÄ Planocrania_datangensis
+                   ÀÄÄ27´   ³    ÀÄÄ65´    ÚÄÄ Boverisuchus_vorax
+                        ³   ³         ÀÄÄ88ÁÄÄ Boverisuchus_magnifrons
+                        ³   ³        ÚÄÄ Leidyosuchus_canadensis
+                        ³   ³   ÚÄÄ13´    ÚÄÄ Deinosuchus_schwimmeri
+                        ³   ³   ³    ÀÄÄ98ÁÄÄ Deinosuchus_riograndensis
+                        ³   ³   ³        ÚÄÄ Prodiplocynodon_langi
+                        ³   ³   ³        ÃÄÄ Asiatosuchus_germanicus
+                        ³   ³   ³        ³        ÚÄÄ Crocodylus_affinis
+                        ³   ³   ³        ³   ÚÄÄ69ÁÄÄ Asiatosuchus_depressifrons
+                        ÀÄÄ2´   ³   ÚÄÄ17´   ³        ÚÄÄ Crocodylus_acer
+                            ³   ³   ³    ³   ³   ÚÄÄ40ÁÄÄ Brachyuranochampsa_eversolei
+                            ³   ³   ³    ³   ³   ³         ÚÄÄ Crocodylus_megarhinus
+                            ³   ³   ³    ÀÄÄ9´   ³         ³    ÚÄÄ Kambara_implexidens
+                            ³   ³   ³        ³   ³         ÃÄÄ24´    ÚÄÄ Australosuchus_clarkae
+                            ³   ³   ³        ³   ³         ³    ÀÄÄ16´    ÚÄÄ Trilophosuchus_rackhami
+                            ³   ³   ³        ³   ³    ÚÄÄ22´         ÀÄÄ44ÁÄÄ Quinkana_spp
+                            ³   ³   ³        ÀÄÄ9´    ³    ³         ÚÄÄ Crocodylus_porosus
+                            ³   ³   ³            ³    ³    ³    ÚÄÄ79´    ÚÄÄ Crocodylus_rhombifer
+                            ³   ³   ³            ³    ³    ³    ³    ÀÄÄ81ÁÄÄ Crocodylus_niloticus
+                            ÀÄÄ1´   ³            ³    ³    ÀÄÄ26´    ÚÄÄ Mecistops_cataphractus
+                                ³   ³            ³    ³         ³    ³    ÚÄÄ Rimasuchus_lloydi
+                                ³   ³            ³    ³         ÀÄÄ16´    ³    ÚÄÄ Euthecodon_arambourgii
+                                ³   ³            ÀÄÄ13´              ÀÄÄ23ÅÄÄ44ÁÄÄ Brochuchus_pigotti
+                                ³   ³                 ³                   ³    ÚÄÄ Voay_robustus
+                                ³   ³                 ³                   ÀÄÄ79´    ÚÄÄ Osteolaemus_tetraspis
+                                ³   ³                 ³                        ÀÄÄ99ÁÄÄ Osteolaemus_osborni
+                                ³   ³                 ³    ÚÄÄ Kentisuchus_spenceri
+                                ³   ³                 ³    ³    ÚÄÄ Dollosuchoides_densmorei
+                                ³   ³                 ÀÄÄ15´    ³    ÚÄÄ Thecachampsa_antiqua
+                                ³   ³                      ÀÄÄ20´    ³   ÚÄÄ Tomistoma_cairense
+                                ³   ³                           ÀÄÄ12´   ³             ÚÄÄ Toyotamaphimeia_machikanensis
+                                ³   ³                                ³   ³        ÚÄÄ65ÁÄÄ Gavialosuchus_eggenburgensis
+                                ³   ³                                ÀÄÄ5´   ÚÄÄ25´    ÚÄÄ Tomistoma_schlegelii
+                                ³   ³                                    ³   ³    ÀÄÄ34ÁÄÄ Tomistoma_lusitanica
+                                ÀÄÄ4´                                    ÀÄÄ6´    ÚÄÄ Maomingosuchus_petrolica
+                                    ³                                        ³    ³    ÚÄÄ Paratomistoma_courti
+                                    ³                                        ÀÄÄ13´    ³         ÚÄÄ Eosuchus_minor
+                                    ³                                             ÀÄÄ23´    ÚÄÄ78ÁÄÄ Eosuchus_lerichei
+                                    ³                                                  ³    ³         ÚÄÄ Thoracosaurus_neocesariensis
+                                    ³                                                  ÀÄÄ89´    ÚÄÄ77ÅÄÄ Thoracosaurus_macrorhynchus
+                                    ³                                                       ³    ³    ÀÄÄ Eothoracosaurus_mississippiensi
+                                    ³                                                       ÀÄÄ67´    ÚÄÄ Eogavialis_africanum
+                                    ³                                                            ³    ³    ÚÄÄ Piscogavialis_jugaliperforatus
+                                    ³                                                            ÀÄÄ76´    ÃÄÄ Gryposuchus_colombianus
+                                    ³                                                                 ÀÄÄ85´    ÚÄÄ Gavialis_lewisi
+                                    ³                                                                      ÀÄÄ60ÁÄÄ Gavialis_gangeticus
+                                    ³         ÚÄÄ Protoalligator_huiningensis
+                                    ³         ³         ÚÄÄ Jiangxisuchus_nankangensis
+                                    ³    ÚÄÄ29´    ÚÄÄ52ÁÄÄ Eoalligator_chunyii
+                                    ³    ³    ÀÄÄ72´    ÚÄÄ Dongnanosuchus_hsui
+                                    ³    ³         ÀÄÄ59´    ÚÄÄ Orientalosuchus_naduongensis
+                                    ³    ³              ÀÄÄ60ÁÄÄ Krabisuchus_siamogallicus
+                                    ³    ³             ÚÄÄ Stangerochampsa_mccabei
+                                    ³    ³             ÃÄÄ Albertochampsa_langstoni
+                                    ³    ³        ÚÄÄ41´    ÚÄÄ Brachychampsa_sealeyi
+                                    ³    ³        ³    ÀÄÄ94ÁÄÄ Brachychampsa_montana
+                                    ³    ³        ³            ÚÄÄ Procaimanoidea_utahensis
+                                    ³    ³        ³       ÚÄÄ36ÁÄÄ Procaimanoidea_kayi
+                                    ÀÄÄ11´        ³       ³        ÚÄÄ Navajosuchus_mooki
+                                         ³    ÚÄÄ4´   ÚÄÄ3´   ÚÄÄ40ÁÄÄ Ceratosuchus_burdoshi
+                                         ³    ³   ³   ³   ³   ³        ÚÄÄ Allognathosuchus_wartheni
+                                         ³    ³   ³   ³   ÀÄÄ2´   ÚÄÄ43ÁÄÄ Allognathosuchus_polyodon
+                                         ³    ³   ³   ³       ÀÄÄ8´   ÚÄÄ Wannaganosuchus_brachymanus
+                                         ³    ³   ³   ³           ÀÄÄ7´    ÚÄÄ Hassiacosuchus_haupti
+                                         ³    ³   ÀÄÄ1´               ÀÄÄ13ÁÄÄ Arambourgia_gaudryi
+                                         ³    ³       ³            ÚÄÄ Alligator_prenasalis
+                                         ³    ³       ³       ÚÄÄ37ÁÄÄ Alligator_mcgrewi
+                                         ³    ³       ³   ÚÄÄ2´    ÚÄÄ Eocaiman_cavernensis
+                                         ÀÄÄ20´       ³   ³   ÀÄÄ28´    ÚÄÄ Eocaiman_palaeocenicus
+                                              ³       ÀÄÄ6´        ÀÄÄ33ÁÄÄ Eocaiman_itaboraiensis
+                                              ³           ³    ÚÄÄ Alligator_olseni
+                                              ³           ÀÄÄ59´    ÚÄÄ Alligator_sinensis
+                                              ³                ÀÄÄ64´    ÚÄÄ Alligator_thomsoni
+                                              ³                     ÀÄÄ64ÅÄÄ Alligator_mississippiensis
+                                              ³                          ÀÄÄ Alligator_mefferdi
+                                              ³   ÚÄÄ Protocaiman_peligrensis
+                                              ³   ³    ÚÄÄ Chinatichampsus_wilsonorum
+                                              ÀÄÄ6´    ³    ÚÄÄ Gnatusuchus_pebasensis
+                                                  ÀÄÄ10´    ³   ÚÄÄ Globidentosuchus_brachyrostris
+                                                       ÀÄÄ10´   ³   ÚÄÄ Kuttanacaiman_iquitosensis
+                                                            ³   ³   ³       ÚÄÄ Necrosuchus_ionensis
+                                                            ÀÄÄ5´   ³       ³   ÚÄÄ Tsoabichi_greenriverensis
+                                                                ³   ³   ÚÄÄ4´   ³         ÚÄÄ Paleosuchus_trigonatus
+                                                                ÀÄÄ4´   ³   ÀÄÄ8´    ÚÄÄ89ÁÄÄ Paleosuchus_palpebrosus
+                                                                    ³   ³       ÀÄÄ25´    ÚÄÄ Bottosaurus_harlani
+                                                                    ³   ³            ÀÄÄ65ÁÄÄ Bottosaurus_fustidens
+                                                                    ³   ³    ÚÄÄ Centenariosuchus_gilmorei
+                                                                    ÀÄÄ3´    ³         ÚÄÄ Purussaurus_neivensis
+                                                                        ³    ³    ÚÄÄ67´    ÚÄÄ Purussaurus_mirandai
+                                                                        ³    ³    ³    ÀÄÄ88ÁÄÄ Purussaurus_brasiliensis
+                                                                        ³    ÃÄÄ53´    ÚÄÄ Mourasuchus_atopus
+                                                                        ÀÄÄ13´    ÀÄÄ85ÅÄÄ Mourasuchus_arendsi
+                                                                             ³         ÀÄÄ Mourasuchus_amazonensis
+                                                                             ³    ÚÄÄ Melanosuchus_niger
+                                                                             ³    ³   ÚÄÄ Caiman_latirostris
+                                                                             ÀÄÄ21´   ³        ÚÄÄ Caiman_yacare
+                                                                                  ÀÄÄ8´   ÚÄÄ81ÁÄÄ Caiman_crocodilus
+                                                                                      ÀÄÄ9´    ÚÄÄ Caiman_brevirostris
+                                                                                          ÀÄÄ23´    ÚÄÄ La_venta_Caiman
+                                                                                               ÀÄÄ59ÁÄÄ Caiman_wannlangstoni
+ 
+GC values, 1000 replicates, cut=0 (tree 1) - Standard Bootstrap 
+   ÚÄÄ Bernissartia_fagesii
+   ³          ÚÄÄ Shamosuchus_djadochtaensis
+   ³     ÚÄÄ30´    ÚÄÄ Acynodon_iberoccitanus
+   ³     ³    ÀÄÄ40´    ÚÄÄ Acynodon_adriaticus
+ÃÄÄ´     ³         ÀÄÄ10´     ÚÄÄ Hylaeochampsa_vectiana
+   ³     ³              ÀÄÄ[7]´      ÚÄÄ Pietraroiasuchus_ormezzanoi
+   ³     ³                    ÀÄÄ[17]ÁÄÄ Iharkutosuchus_makadii
+   ³     ³    ÚÄÄ Pachycheilosuchus_trinquei
+   ÀÄÄ100´    ³         ÚÄÄ Allodaposuchus_precedens
+         ³    ³         ³         ÚÄÄ Lohuecosuchus_megadontos
+         ³    ³    ÚÄÄ84´    ÚÄÄ33ÁÄÄ Lohuecosuchus_mechinorum
+         ³    ³    ³    ÀÄÄ24´    ÚÄÄ Arenysuchus_gascabadiolorum
+         ³    ³    ³         ÀÄÄ13ÁÄÄ Agaresuchus_subjuniperus
+         ÀÄÄ30´    ³               ÚÄÄ Borealosuchus_sternbergii
+              ³    ³          ÚÄÄ34´     ÚÄÄ Borealosuchus_griffithi
+              ³    ³          ³    ÀÄÄ[5]´    ÚÄÄ Borealosuchus_formidabilis
+              ³    ³          ³          ÀÄÄ58´    ÚÄÄ Borealosuchus_wilsoni
+              ³    ³          ³               ÀÄÄ82ÅÄÄ Borealosuchus_threeensis
+              ³    ³    ÚÄÄ[6]´                    ÀÄÄ Borealosuchus_acutidentatus
+              ÀÄÄ17´    ³     ³    ÚÄÄ Diplocynodon_remensis
+                   ³    ³     ³    ³    ÚÄÄ Diplocynodon_darwini
+                   ³    ³     ÀÄÄ13´    ³   ÚÄÄ Diplocynodon_hantoniensis
+                   ³    ³          ÀÄÄ33´   ³   ÚÄÄ Diplocynodon_ratelii
+                   ³    ³               ÀÄÄ4´   ÃÄÄ Diplocynodon_deponiae
+                   ³    ³                   ÀÄÄ0´    ÚÄÄ Diplocynodon_tormis
+                   ³    ³                       ÀÄÄ32ÁÄÄ Diplocynodon_muelleri
+                   ³    ³           ÚÄÄ Planocrania_hengdongensis
+                   ³    ³      ÚÄÄ44´    ÚÄÄ Planocrania_datangensis
+                   ÀÄÄ16´      ³    ÀÄÄ56´    ÚÄÄ Boverisuchus_vorax
+                        ³      ³         ÀÄÄ84ÁÄÄ Boverisuchus_magnifrons
+                        ³      ³            ÚÄÄ Leidyosuchus_canadensis
+                        ³      ³      ÚÄÄ[2]´    ÚÄÄ Deinosuchus_schwimmeri
+                        ³      ³      ³     ÀÄÄ98ÁÄÄ Deinosuchus_riograndensis
+                        ³      ³      ³         ÚÄÄ Prodiplocynodon_langi
+                        ³      ³      ³         ÃÄÄ Asiatosuchus_germanicus
+                        ³      ³      ³         ³          ÚÄÄ Crocodylus_affinis
+                        ³      ³      ³         ³     ÚÄÄ66ÁÄÄ Asiatosuchus_depressifrons
+                        ÀÄÄ[13]´      ³     ÚÄÄ6´     ³          ÚÄÄ Crocodylus_acer
+                               ³      ³     ³   ³     ³     ÚÄÄ28ÁÄÄ Brachyuranochampsa_eversolei
+                               ³      ³     ³   ³     ³     ³        ÚÄÄ Crocodylus_megarhinus
+                               ³      ³     ³   ÀÄÄ[2]´     ³        ³    ÚÄÄ Kambara_implexidens
+                               ³      ³     ³         ³     ³        ÃÄÄ13´     ÚÄÄ Australosuchus_clarkae
+                               ³      ³     ³         ³     ³        ³    ÀÄÄ[6]´    ÚÄÄ Trilophosuchus_rackhami
+                               ³      ³     ³         ³     ³   ÚÄÄ17´          ÀÄÄ30ÁÄÄ Quinkana_spp
+                               ³      ³     ³         ÀÄÄ[2]´   ³    ³         ÚÄÄ Crocodylus_porosus
+                               ³      ³     ³               ³   ³    ³    ÚÄÄ69´    ÚÄÄ Crocodylus_rhombifer
+                               ³      ³     ³               ³   ³    ³    ³    ÀÄÄ79ÁÄÄ Crocodylus_niloticus
+                               ÀÄÄ[14]´     ³               ³   ³    ÀÄÄ14´   ÚÄÄ Mecistops_cataphractus
+                                      ³     ³               ³   ³         ³   ³    ÚÄÄ Rimasuchus_lloydi
+                                      ³     ³               ³   ³         ÀÄÄ2´    ³    ÚÄÄ Euthecodon_arambourgii
+                                      ³     ³               ÀÄÄ2´             ÀÄÄ10ÅÄÄ35ÁÄÄ Brochuchus_pigotti
+                                      ³     ³                   ³                  ³    ÚÄÄ Voay_robustus
+                                      ³     ³                   ³                  ÀÄÄ76´    ÚÄÄ Osteolaemus_tetraspis
+                                      ³     ³                   ³                       ÀÄÄ98ÁÄÄ Osteolaemus_osborni
+                                      ³     ³                   ³   ÚÄÄ Kentisuchus_spenceri
+                                      ³     ³                   ³   ³      ÚÄÄ Dollosuchoides_densmorei
+                                      ³     ³                   ÀÄÄ2´      ³   ÚÄÄ Thecachampsa_antiqua
+                                      ³     ³                       ÀÄÄ[10]´   ³      ÚÄÄ Tomistoma_cairense
+                                      ³     ³                              ÀÄÄ0´      ³               ÚÄÄ Toyotamaphimeia_machikanensis
+                                      ³     ³                                  ³      ³          ÚÄÄ55ÁÄÄ Gavialosuchus_eggenburgensis
+                                      ³     ³                                  ÀÄÄ[10]´     ÚÄÄ18´    ÚÄÄ Tomistoma_schlegelii
+                                      ³     ³                                         ³     ³    ÀÄÄ23ÁÄÄ Tomistoma_lusitanica
+                                      ÀÄÄ[6]´                                         ÀÄÄ[4]´   ÚÄÄ Maomingosuchus_petrolica
+                                            ³                                               ³   ³    ÚÄÄ Paratomistoma_courti
+                                            ³                                               ÀÄÄ2´    ³         ÚÄÄ Eosuchus_minor
+                                            ³                                                   ÀÄÄ12´    ÚÄÄ62ÁÄÄ Eosuchus_lerichei
+                                            ³                                                        ³    ³         ÚÄÄ Thoracosaurus_neocesariensis
+                                            ³                                                        ÀÄÄ87´    ÚÄÄ72ÅÄÄ Thoracosaurus_macrorhynchus
+                                            ³                                                             ³    ³    ÀÄÄ Eothoracosaurus_mississippiensi
+                                            ³                                                             ÀÄÄ49´    ÚÄÄ Eogavialis_africanum
+                                            ³                                                                  ³    ³    ÚÄÄ Piscogavialis_jugaliperforatus
+                                            ³                                                                  ÀÄÄ66´    ÃÄÄ Gryposuchus_colombianus
+                                            ³                                                                       ÀÄÄ73´    ÚÄÄ Gavialis_lewisi
+                                            ³                                                                            ÀÄÄ33ÁÄÄ Gavialis_gangeticus
+                                            ³        ÚÄÄ Protoalligator_huiningensis
+                                            ³        ³         ÚÄÄ Jiangxisuchus_nankangensis
+                                            ³   ÚÄÄ18´    ÚÄÄ29ÁÄÄ Eoalligator_chunyii
+                                            ³   ³    ÀÄÄ70´    ÚÄÄ Dongnanosuchus_hsui
+                                            ³   ³         ÀÄÄ48´    ÚÄÄ Orientalosuchus_naduongensis
+                                            ³   ³              ÀÄÄ46ÁÄÄ Krabisuchus_siamogallicus
+                                            ³   ³              ÚÄÄ Stangerochampsa_mccabei
+                                            ³   ³              ÃÄÄ Albertochampsa_langstoni
+                                            ³   ³         ÚÄÄ34´    ÚÄÄ Brachychampsa_sealeyi
+                                            ³   ³         ³    ÀÄÄ94ÁÄÄ Brachychampsa_montana
+                                            ³   ³         ³                  ÚÄÄ Procaimanoidea_utahensis
+                                            ³   ³         ³             ÚÄÄ11ÁÄÄ Procaimanoidea_kayi
+                                            ÀÄÄ5´         ³             ³           ÚÄÄ Navajosuchus_mooki
+                                                ³   ÚÄÄ[4]´      ÚÄÄ[11]´      ÚÄÄ25ÁÄÄ Ceratosuchus_burdoshi
+                                                ³   ³     ³      ³      ³      ³           ÚÄÄ Allognathosuchus_wartheni
+                                                ³   ³     ³      ³      ÀÄÄ[22]´      ÚÄÄ37ÁÄÄ Allognathosuchus_polyodon
+                                                ³   ³     ³      ³             ÀÄÄ[15]´      ÚÄÄ Wannaganosuchus_brachymanus
+                                                ³   ³     ³      ³                    ÀÄÄ[17]´      ÚÄÄ Hassiacosuchus_haupti
+                                                ³   ³     ÀÄÄ[13]´                           ÀÄÄ[10]ÁÄÄ Arambourgia_gaudryi
+                                                ³   ³            ³                 ÚÄÄ Alligator_prenasalis
+                                                ³   ³            ³            ÚÄÄ27ÁÄÄ Alligator_mcgrewi
+                                                ³   ³            ³     ÚÄÄ[13]´    ÚÄÄ Eocaiman_cavernensis
+                                                ÀÄÄ9´            ³     ³      ÀÄÄ17´    ÚÄÄ Eocaiman_palaeocenicus
+                                                    ³            ÀÄÄ[4]´           ÀÄÄ27ÁÄÄ Eocaiman_itaboraiensis
+                                                    ³                  ³    ÚÄÄ Alligator_olseni
+                                                    ³                  ÀÄÄ50´    ÚÄÄ Alligator_sinensis
+                                                    ³                       ÀÄÄ56´    ÚÄÄ Alligator_thomsoni
+                                                    ³                            ÀÄÄ52ÅÄÄ Alligator_mississippiensis
+                                                    ³                                 ÀÄÄ Alligator_mefferdi
+                                                    ³     ÚÄÄ Protocaiman_peligrensis
+                                                    ³     ³     ÚÄÄ Chinatichampsus_wilsonorum
+                                                    ÀÄÄ[5]´     ³   ÚÄÄ Gnatusuchus_pebasensis
+                                                          ÀÄÄ[1]´   ³     ÚÄÄ Globidentosuchus_brachyrostris
+                                                                ÀÄÄ0´     ³      ÚÄÄ Kuttanacaiman_iquitosensis
+                                                                    ³     ³      ³           ÚÄÄ Necrosuchus_ionensis
+                                                                    ÀÄÄ[5]´      ³           ³     ÚÄÄ Tsoabichi_greenriverensis
+                                                                          ³      ³     ÚÄÄ[6]´     ³        ÚÄÄ Paleosuchus_trigonatus
+                                                                          ÀÄÄ[16]´     ³     ÀÄÄ[3]´   ÚÄÄ87ÁÄÄ Paleosuchus_palpebrosus
+                                                                                 ³     ³           ÀÄÄ9´    ÚÄÄ Bottosaurus_harlani
+                                                                                 ³     ³               ÀÄÄ54ÁÄÄ Bottosaurus_fustidens
+                                                                                 ³     ³   ÚÄÄ Centenariosuchus_gilmorei
+                                                                                 ÀÄÄ[7]´   ³         ÚÄÄ Purussaurus_neivensis
+                                                                                       ³   ³    ÚÄÄ49´    ÚÄÄ Purussaurus_mirandai
+                                                                                       ³   ³    ³    ÀÄÄ79ÁÄÄ Purussaurus_brasiliensis
+                                                                                       ³   ÃÄÄ47´    ÚÄÄ Mourasuchus_atopus
+                                                                                       ÀÄÄ6´    ÀÄÄ84ÅÄÄ Mourasuchus_arendsi
+                                                                                           ³         ÀÄÄ Mourasuchus_amazonensis
+                                                                                           ³    ÚÄÄ Melanosuchus_niger
+                                                                                           ³    ³     ÚÄÄ Caiman_latirostris
+                                                                                           ÀÄÄ10´     ³          ÚÄÄ Caiman_yacare
+                                                                                                ÀÄÄ[9]´     ÚÄÄ79ÁÄÄ Caiman_crocodilus
+                                                                                                      ÀÄÄ[8]´    ÚÄÄ Caiman_brevirostris
+                                                                                                            ÀÄÄ13´    ÚÄÄ La_venta_Caiman
+                                                                                                                 ÀÄÄ48ÁÄÄ Caiman_wannlangstoni
+ 
+Note: resampling was done under currently defined constraints. 
+291.56 secs. to complete resampling 
+ 
+Group freqs., 1000 replicates, cut=50 (tree 0) - Jacknifing (P=36) 
+   ÚÄÄ Bernissartia_fagesii
+   ³          ÚÄÄ Shamosuchus_djadochtaensis
+   ³     ÚÄÄ55´    ÚÄÄ Acynodon_iberoccitanus
+   ³     ³    ÀÄÄ63´    ÚÄÄ Acynodon_adriaticus
+ÃÄÄ´     ³         ÀÄÄ42´    ÚÄÄ Hylaeochampsa_vectiana
+   ³     ³              ÀÄÄ37´    ÚÄÄ Pietraroiasuchus_ormezzanoi
+   ³     ³                   ÀÄÄ38ÁÄÄ Iharkutosuchus_makadii
+   ³     ³    ÚÄÄ Pachycheilosuchus_trinquei
+   ÀÄÄ100´    ³         ÚÄÄ Allodaposuchus_precedens
+         ³    ³         ³         ÚÄÄ Lohuecosuchus_megadontos
+         ³    ³    ÚÄÄ91´    ÚÄÄ58ÁÄÄ Lohuecosuchus_mechinorum
+         ³    ³    ³    ÀÄÄ52´    ÚÄÄ Arenysuchus_gascabadiolorum
+         ³    ³    ³         ÀÄÄ41ÁÄÄ Agaresuchus_subjuniperus
+         ÀÄÄ55´    ³              ÚÄÄ Borealosuchus_sternbergii
+              ³    ³         ÚÄÄ61´    ÚÄÄ Borealosuchus_griffithi
+              ³    ³         ³    ÀÄÄ45´    ÚÄÄ Borealosuchus_formidabilis
+              ³    ³         ³         ÀÄÄ73´    ÚÄÄ Borealosuchus_wilsoni
+              ³    ³         ³              ÀÄÄ88ÅÄÄ Borealosuchus_threeensis
+              ³    ³    ÚÄÄ16´                   ÀÄÄ Borealosuchus_acutidentatus
+              ÀÄÄ41´    ³    ³    ÚÄÄ Diplocynodon_remensis
+                   ³    ³    ³    ³    ÚÄÄ Diplocynodon_darwini
+                   ³    ³    ÀÄÄ30´    ³    ÚÄÄ Diplocynodon_hantoniensis
+                   ³    ³         ÀÄÄ48´    ³    ÚÄÄ Diplocynodon_ratelii
+                   ³    ³              ÀÄÄ25´    ÃÄÄ Diplocynodon_deponiae
+                   ³    ³                   ÀÄÄ19´    ÚÄÄ Diplocynodon_tormis
+                   ³    ³                        ÀÄÄ46ÁÄÄ Diplocynodon_muelleri
+                   ³    ³        ÚÄÄ Planocrania_hengdongensis
+                   ³    ³   ÚÄÄ59´    ÚÄÄ Planocrania_datangensis
+                   ÀÄÄ43´   ³    ÀÄÄ70´    ÚÄÄ Boverisuchus_vorax
+                        ³   ³         ÀÄÄ91ÁÄÄ Boverisuchus_magnifrons
+                        ³   ³        ÚÄÄ Leidyosuchus_canadensis
+                        ³   ³   ÚÄÄ19´    ÚÄÄ Deinosuchus_schwimmeri
+                        ³   ³   ³    ÀÄÄ99ÁÄÄ Deinosuchus_riograndensis
+                        ³   ³   ³         ÚÄÄ Prodiplocynodon_langi
+                        ³   ³   ³         ÃÄÄ Asiatosuchus_germanicus
+                        ³   ³   ³         ³         ÚÄÄ Crocodylus_affinis
+                        ³   ³   ³         ³    ÚÄÄ78ÁÄÄ Asiatosuchus_depressifrons
+                        ÀÄÄ7´   ³    ÚÄÄ28´    ³         ÚÄÄ Crocodylus_acer
+                            ³   ³    ³    ³    ³    ÚÄÄ37ÁÄÄ Brachyuranochampsa_eversolei
+                            ³   ³    ³    ³    ³    ³         ÚÄÄ Crocodylus_megarhinus
+                            ³   ³    ³    ÀÄÄ19´    ³         ³    ÚÄÄ Kambara_implexidens
+                            ³   ³    ³         ³    ³         ÃÄÄ38´    ÚÄÄ Australosuchus_clarkae
+                            ³   ³    ³         ³    ³         ³    ÀÄÄ22´    ÚÄÄ Trilophosuchus_rackhami
+                            ³   ³    ³         ³    ³    ÚÄÄ33´         ÀÄÄ57ÁÄÄ Quinkana_spp
+                            ³   ³    ³         ÀÄÄ13´    ³    ³         ÚÄÄ Crocodylus_porosus
+                            ³   ³    ³              ³    ³    ³    ÚÄÄ84´    ÚÄÄ Crocodylus_rhombifer
+                            ³   ³    ³              ³    ³    ³    ³    ÀÄÄ84ÁÄÄ Crocodylus_niloticus
+                            ÀÄÄ3´    ³              ³    ³    ÀÄÄ42´    ÚÄÄ Mecistops_cataphractus
+                                ³    ³              ³    ³         ³    ³    ÚÄÄ Rimasuchus_lloydi
+                                ³    ³              ³    ³         ÀÄÄ25´    ³    ÚÄÄ Euthecodon_arambourgii
+                                ³    ³              ÀÄÄ23´              ÀÄÄ34ÅÄÄ56ÁÄÄ Brochuchus_pigotti
+                                ³    ³                   ³                   ³    ÚÄÄ Voay_robustus
+                                ³    ³                   ³                   ÀÄÄ87´    ÚÄÄ Osteolaemus_tetraspis
+                                ³    ³                   ³                        ÀÄÄ99ÁÄÄ Osteolaemus_osborni
+                                ³    ³                   ³    ÚÄÄ Kentisuchus_spenceri
+                                ³    ³                   ³    ³    ÚÄÄ Dollosuchoides_densmorei
+                                ³    ³                   ÀÄÄ27´    ³    ÚÄÄ Thecachampsa_antiqua
+                                ³    ³                        ÀÄÄ27´    ³   ÚÄÄ Tomistoma_cairense
+                                ³    ³                             ÀÄÄ19´   ³              ÚÄÄ Toyotamaphimeia_machikanensis
+                                ³    ³                                  ³   ³         ÚÄÄ62ÁÄÄ Gavialosuchus_eggenburgensis
+                                ³    ³                                  ÀÄÄ7´    ÚÄÄ33´    ÚÄÄ Tomistoma_schlegelii
+                                ³    ³                                      ³    ³    ÀÄÄ34ÁÄÄ Tomistoma_lusitanica
+                                ÀÄÄ11´                                      ÀÄÄ11´    ÚÄÄ Maomingosuchus_petrolica
+                                     ³                                           ³    ³    ÚÄÄ Paratomistoma_courti
+                                     ³                                           ÀÄÄ25´    ³         ÚÄÄ Eosuchus_minor
+                                     ³                                                ÀÄÄ35´    ÚÄÄ81ÁÄÄ Eosuchus_lerichei
+                                     ³                                                     ³    ³         ÚÄÄ Thoracosaurus_neocesariensis
+                                     ³                                                     ÀÄÄ94´    ÚÄÄ85ÅÄÄ Thoracosaurus_macrorhynchus
+                                     ³                                                          ³    ³    ÀÄÄ Eothoracosaurus_mississippiensi
+                                     ³                                                          ÀÄÄ78´    ÚÄÄ Eogavialis_africanum
+                                     ³                                                               ³    ³    ÚÄÄ Piscogavialis_jugaliperforatus
+                                     ³                                                               ÀÄÄ83´    ÃÄÄ Gryposuchus_colombianus
+                                     ³                                                                    ÀÄÄ89´    ÚÄÄ Gavialis_lewisi
+                                     ³                                                                         ÀÄÄ62ÁÄÄ Gavialis_gangeticus
+                                     ³         ÚÄÄ Protoalligator_huiningensis
+                                     ³         ³         ÚÄÄ Jiangxisuchus_nankangensis
+                                     ³    ÚÄÄ38´    ÚÄÄ55ÁÄÄ Eoalligator_chunyii
+                                     ³    ³    ÀÄÄ83´    ÚÄÄ Dongnanosuchus_hsui
+                                     ³    ³         ÀÄÄ65´    ÚÄÄ Orientalosuchus_naduongensis
+                                     ³    ³              ÀÄÄ63ÁÄÄ Krabisuchus_siamogallicus
+                                     ³    ³             ÚÄÄ Stangerochampsa_mccabei
+                                     ³    ³             ÃÄÄ Albertochampsa_langstoni
+                                     ³    ³        ÚÄÄ47´    ÚÄÄ Brachychampsa_sealeyi
+                                     ³    ³        ³    ÀÄÄ95ÁÄÄ Brachychampsa_montana
+                                     ³    ³        ³            ÚÄÄ Procaimanoidea_utahensis
+                                     ³    ³        ³       ÚÄÄ39ÁÄÄ Procaimanoidea_kayi
+                                     ÀÄÄ21´        ³       ³        ÚÄÄ Navajosuchus_mooki
+                                          ³    ÚÄÄ5´   ÚÄÄ8´   ÚÄÄ35ÁÄÄ Ceratosuchus_burdoshi
+                                          ³    ³   ³   ³   ³   ³         ÚÄÄ Allognathosuchus_wartheni
+                                          ³    ³   ³   ³   ÀÄÄ6´    ÚÄÄ44ÁÄÄ Allognathosuchus_polyodon
+                                          ³    ³   ³   ³       ÀÄÄ11´    ÚÄÄ Wannaganosuchus_brachymanus
+                                          ³    ³   ³   ³            ÀÄÄ10´    ÚÄÄ Hassiacosuchus_haupti
+                                          ³    ³   ÀÄÄ3´                 ÀÄÄ16ÁÄÄ Arambourgia_gaudryi
+                                          ³    ³       ³            ÚÄÄ Alligator_prenasalis
+                                          ³    ³       ³       ÚÄÄ42ÁÄÄ Alligator_mcgrewi
+                                          ³    ³       ³   ÚÄÄ3´    ÚÄÄ Eocaiman_cavernensis
+                                          ÀÄÄ32´       ³   ³   ÀÄÄ31´    ÚÄÄ Eocaiman_palaeocenicus
+                                               ³       ÀÄÄ8´        ÀÄÄ35ÁÄÄ Eocaiman_itaboraiensis
+                                               ³           ³    ÚÄÄ Alligator_olseni
+                                               ³           ÀÄÄ65´    ÚÄÄ Alligator_sinensis
+                                               ³                ÀÄÄ68´    ÚÄÄ Alligator_thomsoni
+                                               ³                     ÀÄÄ70ÅÄÄ Alligator_mississippiensis
+                                               ³                          ÀÄÄ Alligator_mefferdi
+                                               ³    ÚÄÄ Protocaiman_peligrensis
+                                               ³    ³    ÚÄÄ Chinatichampsus_wilsonorum
+                                               ÀÄÄ10´    ³    ÚÄÄ Gnatusuchus_pebasensis
+                                                    ÀÄÄ12´    ³   ÚÄÄ Globidentosuchus_brachyrostris
+                                                         ÀÄÄ13´   ³   ÚÄÄ Kuttanacaiman_iquitosensis
+                                                              ³   ³   ³       ÚÄÄ Necrosuchus_ionensis
+                                                              ÀÄÄ5´   ³       ³    ÚÄÄ Tsoabichi_greenriverensis
+                                                                  ³   ³   ÚÄÄ9´    ³         ÚÄÄ Paleosuchus_trigonatus
+                                                                  ÀÄÄ6´   ³   ÀÄÄ14´    ÚÄÄ89ÁÄÄ Paleosuchus_palpebrosus
+                                                                      ³   ³        ÀÄÄ32´    ÚÄÄ Bottosaurus_harlani
+                                                                      ³   ³             ÀÄÄ74ÁÄÄ Bottosaurus_fustidens
+                                                                      ³   ³    ÚÄÄ Centenariosuchus_gilmorei
+                                                                      ÀÄÄ5´    ³         ÚÄÄ Purussaurus_neivensis
+                                                                          ³    ³    ÚÄÄ72´    ÚÄÄ Purussaurus_mirandai
+                                                                          ³    ³    ³    ÀÄÄ89ÁÄÄ Purussaurus_brasiliensis
+                                                                          ³    ÃÄÄ65´    ÚÄÄ Mourasuchus_atopus
+                                                                          ÀÄÄ19´    ÀÄÄ88ÅÄÄ Mourasuchus_arendsi
+                                                                               ³         ÀÄÄ Mourasuchus_amazonensis
+                                                                               ³    ÚÄÄ Melanosuchus_niger
+                                                                               ³    ³    ÚÄÄ Caiman_latirostris
+                                                                               ÀÄÄ28´    ³         ÚÄÄ Caiman_yacare
+                                                                                    ÀÄÄ10´    ÚÄÄ84ÁÄÄ Caiman_crocodilus
+                                                                                         ÀÄÄ12´    ÚÄÄ Caiman_brevirostris
+                                                                                              ÀÄÄ27´    ÚÄÄ La_venta_Caiman
+                                                                                                   ÀÄÄ59ÁÄÄ Caiman_wannlangstoni
+ 
+GC values, 1000 replicates, cut=0 (tree 1) - Jacknifing (P=36) 
+   ÚÄÄ Bernissartia_fagesii
+   ³          ÚÄÄ Shamosuchus_djadochtaensis
+   ³     ÚÄÄ45´    ÚÄÄ Acynodon_iberoccitanus
+   ³     ³    ÀÄÄ58´    ÚÄÄ Acynodon_adriaticus
+ÃÄÄ´     ³         ÀÄÄ19´   ÚÄÄ Hylaeochampsa_vectiana
+   ³     ³              ÀÄÄ0´     ÚÄÄ Pietraroiasuchus_ormezzanoi
+   ³     ³                  ÀÄÄ[5]ÁÄÄ Iharkutosuchus_makadii
+   ³     ³    ÚÄÄ Pachycheilosuchus_trinquei
+   ÀÄÄ100´    ³         ÚÄÄ Allodaposuchus_precedens
+         ³    ³         ³         ÚÄÄ Lohuecosuchus_megadontos
+         ³    ³    ÚÄÄ90´    ÚÄÄ40ÁÄÄ Lohuecosuchus_mechinorum
+         ³    ³    ³    ÀÄÄ28´    ÚÄÄ Arenysuchus_gascabadiolorum
+         ³    ³    ³         ÀÄÄ17ÁÄÄ Agaresuchus_subjuniperus
+         ÀÄÄ46´    ³             ÚÄÄ Borealosuchus_sternbergii
+              ³    ³        ÚÄÄ48´   ÚÄÄ Borealosuchus_griffithi
+              ³    ³        ³    ÀÄÄ7´    ÚÄÄ Borealosuchus_formidabilis
+              ³    ³        ³        ÀÄÄ69´    ÚÄÄ Borealosuchus_wilsoni
+              ³    ³        ³             ÀÄÄ85ÅÄÄ Borealosuchus_threeensis
+              ³    ³    ÚÄÄ3´                  ÀÄÄ Borealosuchus_acutidentatus
+              ÀÄÄ32´    ³   ³    ÚÄÄ Diplocynodon_remensis
+                   ³    ³   ³    ³    ÚÄÄ Diplocynodon_darwini
+                   ³    ³   ÀÄÄ22´    ³    ÚÄÄ Diplocynodon_hantoniensis
+                   ³    ³        ÀÄÄ42´    ³   ÚÄÄ Diplocynodon_ratelii
+                   ³    ³             ÀÄÄ10´   ÃÄÄ Diplocynodon_deponiae
+                   ³    ³                  ÀÄÄ4´    ÚÄÄ Diplocynodon_tormis
+                   ³    ³                      ÀÄÄ36ÁÄÄ Diplocynodon_muelleri
+                   ³    ³          ÚÄÄ Planocrania_hengdongensis
+                   ³    ³     ÚÄÄ56´    ÚÄÄ Planocrania_datangensis
+                   ÀÄÄ34´     ³    ÀÄÄ63´    ÚÄÄ Boverisuchus_vorax
+                        ³     ³         ÀÄÄ88ÁÄÄ Boverisuchus_magnifrons
+                        ³     ³         ÚÄÄ Leidyosuchus_canadensis
+                        ³     ³     ÚÄÄ6´    ÚÄÄ Deinosuchus_schwimmeri
+                        ³     ³     ³   ÀÄÄ99ÁÄÄ Deinosuchus_riograndensis
+                        ³     ³     ³        ÚÄÄ Prodiplocynodon_langi
+                        ³     ³     ³        ÃÄÄ Asiatosuchus_germanicus
+                        ³     ³     ³        ³        ÚÄÄ Crocodylus_affinis
+                        ³     ³     ³        ³   ÚÄÄ76ÁÄÄ Asiatosuchus_depressifrons
+                        ÀÄÄ[5]´     ³   ÚÄÄ19´   ³        ÚÄÄ Crocodylus_acer
+                              ³     ³   ³    ³   ³   ÚÄÄ25ÁÄÄ Brachyuranochampsa_eversolei
+                              ³     ³   ³    ³   ³   ³         ÚÄÄ Crocodylus_megarhinus
+                              ³     ³   ³    ÀÄÄ6´   ³         ³    ÚÄÄ Kambara_implexidens
+                              ³     ³   ³        ³   ³         ÃÄÄ26´     ÚÄÄ Australosuchus_clarkae
+                              ³     ³   ³        ³   ³         ³    ÀÄÄ[1]´    ÚÄÄ Trilophosuchus_rackhami
+                              ³     ³   ³        ³   ³    ÚÄÄ26´          ÀÄÄ44ÁÄÄ Quinkana_spp
+                              ³     ³   ³        ÀÄÄ0´    ³    ³         ÚÄÄ Crocodylus_porosus
+                              ³     ³   ³            ³    ³    ³    ÚÄÄ78´    ÚÄÄ Crocodylus_rhombifer
+                              ³     ³   ³            ³    ³    ³    ³    ÀÄÄ83ÁÄÄ Crocodylus_niloticus
+                              ÀÄÄ[9]´   ³            ³    ³    ÀÄÄ30´   ÚÄÄ Mecistops_cataphractus
+                                    ³   ³            ³    ³         ³   ³    ÚÄÄ Rimasuchus_lloydi
+                                    ³   ³            ³    ³         ÀÄÄ9´    ³    ÚÄÄ Euthecodon_arambourgii
+                                    ³   ³            ÀÄÄ12´             ÀÄÄ18ÅÄÄ51ÁÄÄ Brochuchus_pigotti
+                                    ³   ³                 ³                  ³    ÚÄÄ Voay_robustus
+                                    ³   ³                 ³                  ÀÄÄ84´    ÚÄÄ Osteolaemus_tetraspis
+                                    ³   ³                 ³                       ÀÄÄ99ÁÄÄ Osteolaemus_osborni
+                                    ³   ³                 ³    ÚÄÄ Kentisuchus_spenceri
+                                    ³   ³                 ³    ³     ÚÄÄ Dollosuchoides_densmorei
+                                    ³   ³                 ÀÄÄ15´     ³   ÚÄÄ Thecachampsa_antiqua
+                                    ³   ³                      ÀÄÄ[3]´   ³      ÚÄÄ Tomistoma_cairense
+                                    ³   ³                            ÀÄÄ7´      ³             ÚÄÄ Toyotamaphimeia_machikanensis
+                                    ³   ³                                ³      ³        ÚÄÄ52ÁÄÄ Gavialosuchus_eggenburgensis
+                                    ³   ³                                ÀÄÄ[10]´   ÚÄÄ28´    ÚÄÄ Tomistoma_schlegelii
+                                    ³   ³                                       ³   ³    ÀÄÄ17ÁÄÄ Tomistoma_lusitanica
+                                    ÀÄÄ2´                                       ÀÄÄ2´    ÚÄÄ Maomingosuchus_petrolica
+                                        ³                                           ³    ³    ÚÄÄ Paratomistoma_courti
+                                        ³                                           ÀÄÄ16´    ³         ÚÄÄ Eosuchus_minor
+                                        ³                                                ÀÄÄ26´    ÚÄÄ67ÁÄÄ Eosuchus_lerichei
+                                        ³                                                     ³    ³         ÚÄÄ Thoracosaurus_neocesariensis
+                                        ³                                                     ÀÄÄ93´    ÚÄÄ82ÅÄÄ Thoracosaurus_macrorhynchus
+                                        ³                                                          ³    ³    ÀÄÄ Eothoracosaurus_mississippiensi
+                                        ³                                                          ÀÄÄ68´    ÚÄÄ Eogavialis_africanum
+                                        ³                                                               ³    ³    ÚÄÄ Piscogavialis_jugaliperforatus
+                                        ³                                                               ÀÄÄ75´    ÃÄÄ Gryposuchus_colombianus
+                                        ³                                                                    ÀÄÄ82´    ÚÄÄ Gavialis_lewisi
+                                        ³                                                                         ÀÄÄ37ÁÄÄ Gavialis_gangeticus
+                                        ³         ÚÄÄ Protoalligator_huiningensis
+                                        ³         ³         ÚÄÄ Jiangxisuchus_nankangensis
+                                        ³    ÚÄÄ29´    ÚÄÄ30ÁÄÄ Eoalligator_chunyii
+                                        ³    ³    ÀÄÄ82´    ÚÄÄ Dongnanosuchus_hsui
+                                        ³    ³         ÀÄÄ57´    ÚÄÄ Orientalosuchus_naduongensis
+                                        ³    ³              ÀÄÄ48ÁÄÄ Krabisuchus_siamogallicus
+                                        ³    ³               ÚÄÄ Stangerochampsa_mccabei
+                                        ³    ³               ÃÄÄ Albertochampsa_langstoni
+                                        ³    ³          ÚÄÄ37´    ÚÄÄ Brachychampsa_sealeyi
+                                        ³    ³          ³    ÀÄÄ94ÁÄÄ Brachychampsa_montana
+                                        ³    ³          ³                 ÚÄÄ Procaimanoidea_utahensis
+                                        ³    ³          ³            ÚÄÄ14ÁÄÄ Procaimanoidea_kayi
+                                        ÀÄÄ11´          ³            ³           ÚÄÄ Navajosuchus_mooki
+                                             ³    ÚÄÄ[3]´      ÚÄÄ[9]´      ÚÄÄ17ÁÄÄ Ceratosuchus_burdoshi
+                                             ³    ³     ³      ³     ³      ³           ÚÄÄ Allognathosuchus_wartheni
+                                             ³    ³     ³      ³     ÀÄÄ[19]´      ÚÄÄ39ÁÄÄ Allognathosuchus_polyodon
+                                             ³    ³     ³      ³            ÀÄÄ[14]´      ÚÄÄ Wannaganosuchus_brachymanus
+                                             ³    ³     ³      ³                   ÀÄÄ[15]´     ÚÄÄ Hassiacosuchus_haupti
+                                             ³    ³     ÀÄÄ[14]´                          ÀÄÄ[9]ÁÄÄ Arambourgia_gaudryi
+                                             ³    ³            ³                 ÚÄÄ Alligator_prenasalis
+                                             ³    ³            ³            ÚÄÄ31ÁÄÄ Alligator_mcgrewi
+                                             ³    ³            ³     ÚÄÄ[17]´    ÚÄÄ Eocaiman_cavernensis
+                                             ÀÄÄ22´            ³     ³      ÀÄÄ20´    ÚÄÄ Eocaiman_palaeocenicus
+                                                  ³            ÀÄÄ[4]´           ÀÄÄ28ÁÄÄ Eocaiman_itaboraiensis
+                                                  ³                  ³    ÚÄÄ Alligator_olseni
+                                                  ³                  ÀÄÄ57´    ÚÄÄ Alligator_sinensis
+                                                  ³                       ÀÄÄ62´    ÚÄÄ Alligator_thomsoni
+                                                  ³                            ÀÄÄ59ÅÄÄ Alligator_mississippiensis
+                                                  ³                                 ÀÄÄ Alligator_mefferdi
+                                                  ³     ÚÄÄ Protocaiman_peligrensis
+                                                  ³     ³   ÚÄÄ Chinatichampsus_wilsonorum
+                                                  ÀÄÄ[1]´   ³   ÚÄÄ Gnatusuchus_pebasensis
+                                                        ÀÄÄ1´   ³     ÚÄÄ Globidentosuchus_brachyrostris
+                                                            ÀÄÄ4´     ³      ÚÄÄ Kuttanacaiman_iquitosensis
+                                                                ³     ³      ³         ÚÄÄ Necrosuchus_ionensis
+                                                                ÀÄÄ[3]´      ³         ³   ÚÄÄ Tsoabichi_greenriverensis
+                                                                      ³      ³     ÚÄÄ0´   ³         ÚÄÄ Paleosuchus_trigonatus
+                                                                      ÀÄÄ[13]´     ³   ÀÄÄ2´    ÚÄÄ87ÁÄÄ Paleosuchus_palpebrosus
+                                                                             ³     ³       ÀÄÄ16´    ÚÄÄ Bottosaurus_harlani
+                                                                             ³     ³            ÀÄÄ65ÁÄÄ Bottosaurus_fustidens
+                                                                             ³     ³    ÚÄÄ Centenariosuchus_gilmorei
+                                                                             ÀÄÄ[4]´    ³         ÚÄÄ Purussaurus_neivensis
+                                                                                   ³    ³    ÚÄÄ58´    ÚÄÄ Purussaurus_mirandai
+                                                                                   ³    ³    ³    ÀÄÄ83ÁÄÄ Purussaurus_brasiliensis
+                                                                                   ³    ÃÄÄ59´    ÚÄÄ Mourasuchus_atopus
+                                                                                   ÀÄÄ12´    ÀÄÄ86ÅÄÄ Mourasuchus_arendsi
+                                                                                        ³         ÀÄÄ Mourasuchus_amazonensis
+                                                                                        ³    ÚÄÄ Melanosuchus_niger
+                                                                                        ³    ³     ÚÄÄ Caiman_latirostris
+                                                                                        ÀÄÄ18´     ³          ÚÄÄ Caiman_yacare
+                                                                                             ÀÄÄ[5]´     ÚÄÄ83ÁÄÄ Caiman_crocodilus
+                                                                                                   ÀÄÄ[5]´    ÚÄÄ Caiman_brevirostris
+                                                                                                         ÀÄÄ16´    ÚÄÄ La_venta_Caiman
+                                                                                                              ÀÄÄ49ÁÄÄ Caiman_wannlangstoni
+ 
+Note: resampling was done under currently defined constraints. 
+264.00 secs. to complete resampling 

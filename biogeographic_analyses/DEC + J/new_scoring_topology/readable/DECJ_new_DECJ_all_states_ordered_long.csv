@@ -1,0 +1,646 @@
+"node","node_label","n_tips","descendant_tips","rank","state","range","probability"
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",1,"state_354","EFJ",0.273738
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",2,"state_6","E",0.170609
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",3,"state_19","AE",0.165131
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",4,"state_144","AEJ",0.122113
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",5,"state_66","EJ",0.084399
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",6,"state_140","AEF",0.060212
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",7,"state_152","AFJ",0.0435
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",8,"state_62","EF",0.032309
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",9,"state_74","FJ",0.015487
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",10,"state_11","J",0.013318
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",11,"state_2","A",0.010991
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",12,"state_24","AJ",0.006415
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",13,"state_20","AF",0.001288
+130,"node_130",129,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=129)",14,"state_7","F",0.000349
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",1,"state_354","EFJ",0.18781
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",2,"state_6","E",0.147015
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",3,"state_19","AE",0.133062
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",4,"state_74","FJ",0.10156
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",5,"state_144","AEJ",0.088783
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",6,"state_11","J",0.055401
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",7,"state_140","AEF",0.053238
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",8,"state_2","A",0.052851
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",9,"state_66","EJ",0.051731
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",10,"state_152","AFJ",0.047291
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",11,"state_24","AJ",0.041672
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",12,"state_62","EF",0.030148
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",13,"state_20","AF",0.0075
+131,"node_131",128,"Acynodon_adriaticus, Acynodon_iberoccitanus, Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, ... (n=128)",14,"state_7","F",0.001794
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",1,"state_6","E",0.299871
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",2,"state_74","FJ",0.23672
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",3,"state_11","J",0.213638
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",4,"state_354","EFJ",0.10084
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",5,"state_66","EJ",0.069841
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",6,"state_62","EF",0.060582
+132,"node_132",6,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi, ... (n=6)",7,"state_7","F",0.018508
+133,"node_133",5,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",1,"state_6","E",0.516654
+133,"node_133",5,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",2,"state_7","F",0.29039
+133,"node_133",5,"Acynodon_adriaticus, Acynodon_iberoccitanus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",3,"state_62","EF",0.192956
+134,"node_134",4,"Acynodon_adriaticus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",1,"state_6","E",0.549754
+134,"node_134",4,"Acynodon_adriaticus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",2,"state_7","F",0.27238
+134,"node_134",4,"Acynodon_adriaticus, Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",3,"state_62","EF",0.177866
+135,"node_135",3,"Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",1,"state_6","E",0.789402
+135,"node_135",3,"Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",2,"state_7","F",0.114637
+135,"node_135",3,"Hylaeochampsa_vectiana, Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",3,"state_62","EF",0.095961
+136,"node_136",2,"Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",1,"state_6","E",0.725542
+136,"node_136",2,"Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",2,"state_7","F",0.192405
+136,"node_136",2,"Iharkutosuchus_makadii, Pietraroiasuchus_ormezzanoi",3,"state_62","EF",0.082053
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",1,"state_2","A",0.388723
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",2,"state_19","AE",0.260077
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",3,"state_6","E",0.22883
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",4,"state_11","J",0.034976
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",5,"state_144","AEJ",0.030965
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",6,"state_140","AEF",0.019279
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",7,"state_20","AF",0.013788
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",8,"state_24","AJ",0.013033
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",9,"state_66","EJ",0.004207
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",10,"state_7","F",0.003007
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",11,"state_62","EF",0.001792
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",12,"state_152","AFJ",0.000794
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",13,"state_354","EFJ",0.000209
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",14,"state_74","FJ",0.000151
+137,"node_137",122,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=122)",15,"state_130","ADE",0.000108
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",1,"state_6","E",0.637632
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",2,"state_19","AE",0.102514
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",3,"state_11","J",0.097555
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",4,"state_2","A",0.051369
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",5,"state_66","EJ",0.03924
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",6,"state_144","AEJ",0.021607
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",7,"state_62","EF",0.016824
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",8,"state_140","AEF",0.010855
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",9,"state_7","F",0.008404
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",10,"state_20","AF",0.005436
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",11,"state_24","AJ",0.004768
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",12,"state_354","EFJ",0.002223
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",13,"state_74","FJ",0.000974
+138,"node_138",121,"Agaresuchus_subjuniperus, Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, ... (n=121)",14,"state_152","AFJ",0.000471
+139,"node_139",5,"Agaresuchus_subjuniperus, Allodaposuchus_precedens, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",1,"state_6","E",0.777947
+139,"node_139",5,"Agaresuchus_subjuniperus, Allodaposuchus_precedens, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",2,"state_62","EF",0.135824
+139,"node_139",5,"Agaresuchus_subjuniperus, Allodaposuchus_precedens, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",3,"state_7","F",0.086229
+140,"node_140",4,"Agaresuchus_subjuniperus, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",1,"state_7","F",0.93794
+140,"node_140",4,"Agaresuchus_subjuniperus, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",2,"state_6","E",0.036502
+140,"node_140",4,"Agaresuchus_subjuniperus, Arenysuchus_gascabadiolorum, Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",3,"state_62","EF",0.025558
+141,"node_141",2,"Agaresuchus_subjuniperus, Arenysuchus_gascabadiolorum",1,"state_7","F",1
+142,"node_142",2,"Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",1,"state_6","E",0.660621
+142,"node_142",2,"Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",2,"state_7","F",0.310186
+142,"node_142",2,"Lohuecosuchus_mechinorum, Lohuecosuchus_megadontos",3,"state_62","EF",0.029193
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",1,"state_2","A",0.473175
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",2,"state_11","J",0.29357
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",3,"state_6","E",0.111099
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",4,"state_24","AJ",0.046485
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",5,"state_19","AE",0.045654
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",6,"state_66","EJ",0.016065
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",7,"state_144","AEJ",0.012969
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",8,"state_140","AEF",0.000452
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",9,"state_20","AF",0.000195
+143,"node_143",116,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=116)",10,"state_135","ADJ",0.000115
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",1,"state_11","J",0.760484
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",2,"state_2","A",0.17211
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",3,"state_24","AJ",0.044867
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",4,"state_6","E",0.011178
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",5,"state_144","AEJ",0.004393
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",6,"state_19","AE",0.004051
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",7,"state_66","EJ",0.002679
+144,"node_144",103,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=103)",8,"state_135","ADJ",0.000123
+145,"node_145",99,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)",1,"state_2","A",0.96687
+145,"node_145",99,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)",2,"state_11","J",0.013941
+145,"node_145",99,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)",3,"state_6","E",0.009594
+145,"node_145",99,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)",4,"state_24","AJ",0.004596
+145,"node_145",99,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)",5,"state_19","AE",0.004501
+145,"node_145",99,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=99)",6,"state_144","AEJ",0.000175
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",1,"state_2","A",0.544206
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",2,"state_11","J",0.268364
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",3,"state_6","E",0.153713
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",4,"state_24","AJ",0.014939
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",5,"state_19","AE",0.013472
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",6,"state_66","EJ",0.004071
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",7,"state_144","AEJ",0.000606
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",8,"state_18","AD",0.000135
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",9,"state_135","ADJ",0.000121
+146,"node_146",96,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=96)",10,"state_140","AEF",0.00012
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",1,"state_11","J",0.716378
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",2,"state_2","A",0.232858
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",3,"state_24","AJ",0.047252
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",4,"state_18","AD",0.001744
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",5,"state_135","ADJ",0.001247
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",6,"state_98","JL",0.000301
+147,"node_147",54,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=54)",7,"state_57","DJ",0.000122
+148,"node_148",48,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=48)",1,"state_2","A",0.974468
+148,"node_148",48,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=48)",2,"state_18","AD",0.025292
+148,"node_148",48,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=48)",3,"state_5","D",0.000198
+149,"node_149",23,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=23)",1,"state_2","A",0.99895
+149,"node_149",23,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=23)",2,"state_18","AD",0.000892
+149,"node_149",23,"Albertochampsa_langstoni, Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, ... (n=23)",3,"state_24","AJ",0.000129
+150,"node_150",4,"Albertochampsa_langstoni, Brachychampsa_montana, Brachychampsa_sealeyi, Stangerochampsa_mccabei",1,"state_2","A",1
+151,"node_151",3,"Albertochampsa_langstoni, Brachychampsa_montana, Brachychampsa_sealeyi",1,"state_2","A",1
+152,"node_152",2,"Brachychampsa_montana, Brachychampsa_sealeyi",1,"state_2","A",1
+153,"node_153",19,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=19)",1,"state_2","A",0.991579
+153,"node_153",19,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=19)",2,"state_18","AD",0.006427
+153,"node_153",19,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=19)",3,"state_24","AJ",0.001471
+153,"node_153",19,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=19)",4,"state_19","AE",0.000294
+153,"node_153",19,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=19)",5,"state_11","J",0.000134
+154,"node_154",10,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=10)",1,"state_2","A",0.96001
+154,"node_154",10,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=10)",2,"state_18","AD",0.024185
+154,"node_154",10,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=10)",3,"state_5","D",0.006611
+154,"node_154",10,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=10)",4,"state_24","AJ",0.005171
+154,"node_154",10,"Alligator_mcgrewi, Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_prenasalis, ... (n=10)",5,"state_11","J",0.003999
+155,"node_155",5,"Alligator_mcgrewi, Alligator_prenasalis, Eocaiman_cavernensis, Eocaiman_itaboraiensis, Eocaiman_palaeocenicus",1,"state_2","A",0.656117
+155,"node_155",5,"Alligator_mcgrewi, Alligator_prenasalis, Eocaiman_cavernensis, Eocaiman_itaboraiensis, Eocaiman_palaeocenicus",2,"state_5","D",0.286803
+155,"node_155",5,"Alligator_mcgrewi, Alligator_prenasalis, Eocaiman_cavernensis, Eocaiman_itaboraiensis, Eocaiman_palaeocenicus",3,"state_18","AD",0.05708
+156,"node_156",2,"Alligator_mcgrewi, Alligator_prenasalis",1,"state_2","A",1
+157,"node_157",3,"Eocaiman_cavernensis, Eocaiman_itaboraiensis, Eocaiman_palaeocenicus",1,"state_5","D",1
+158,"node_158",2,"Eocaiman_itaboraiensis, Eocaiman_palaeocenicus",1,"state_5","D",1
+159,"node_159",5,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_sinensis, Alligator_thomsoni",1,"state_2","A",0.941794
+159,"node_159",5,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_sinensis, Alligator_thomsoni",2,"state_24","AJ",0.03444
+159,"node_159",5,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_olseni, Alligator_sinensis, Alligator_thomsoni",3,"state_11","J",0.023766
+160,"node_160",4,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_sinensis, Alligator_thomsoni",1,"state_2","A",0.863073
+160,"node_160",4,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_sinensis, Alligator_thomsoni",2,"state_11","J",0.094256
+160,"node_160",4,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_sinensis, Alligator_thomsoni",3,"state_24","AJ",0.042671
+161,"node_161",3,"Alligator_mefferdi, Alligator_mississippiensis, Alligator_thomsoni",1,"state_2","A",1
+162,"node_162",2,"Alligator_mississippiensis, Alligator_thomsoni",1,"state_2","A",1
+163,"node_163",9,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=9)",1,"state_2","A",0.998689
+163,"node_163",9,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=9)",2,"state_19","AE",0.001265
+164,"node_164",7,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=7)",1,"state_2","A",0.994514
+164,"node_164",7,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=7)",2,"state_19","AE",0.004339
+164,"node_164",7,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Ceratosuchus_burdoshi, Hassiacosuchus_haupti, ... (n=7)",3,"state_6","E",0.001146
+165,"node_165",5,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus",1,"state_2","A",0.949908
+165,"node_165",5,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus",2,"state_6","E",0.030145
+165,"node_165",5,"Allognathosuchus_polyodon, Allognathosuchus_wartheni, Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus",3,"state_19","AE",0.019947
+166,"node_166",2,"Allognathosuchus_polyodon, Allognathosuchus_wartheni",1,"state_2","A",1
+167,"node_167",3,"Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus",1,"state_2","A",0.550696
+167,"node_167",3,"Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus",2,"state_6","E",0.415559
+167,"node_167",3,"Arambourgia_gaudryi, Hassiacosuchus_haupti, Wannaganosuchus_brachymanus",3,"state_19","AE",0.033745
+168,"node_168",2,"Arambourgia_gaudryi, Hassiacosuchus_haupti",1,"state_6","E",1
+169,"node_169",2,"Ceratosuchus_burdoshi, Navajosuchus_mooki",1,"state_2","A",1
+170,"node_170",2,"Procaimanoidea_kayi, Procaimanoidea_utahensis",1,"state_2","A",1
+171,"node_171",25,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=25)",1,"state_5","D",0.954028
+171,"node_171",25,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=25)",2,"state_2","A",0.033537
+171,"node_171",25,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=25)",3,"state_18","AD",0.012431
+172,"node_172",24,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=24)",1,"state_5","D",0.677983
+172,"node_172",24,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=24)",2,"state_2","A",0.300401
+172,"node_172",24,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=24)",3,"state_18","AD",0.021599
+173,"node_173",23,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=23)",1,"state_5","D",0.999855
+173,"node_173",23,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=23)",2,"state_18","AD",0.000124
+174,"node_174",22,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=22)",1,"state_5","D",0.999627
+174,"node_174",22,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=22)",2,"state_18","AD",0.000314
+175,"node_175",21,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=21)",1,"state_5","D",0.998735
+175,"node_175",21,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=21)",2,"state_18","AD",0.001042
+175,"node_175",21,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=21)",3,"state_41","CD",0.000148
+176,"node_176",20,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=20)",1,"state_5","D",0.992222
+176,"node_176",20,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=20)",2,"state_18","AD",0.004433
+176,"node_176",20,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=20)",3,"state_4","C",0.001903
+176,"node_176",20,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=20)",4,"state_2","A",0.00095
+176,"node_176",20,"Bottosaurus_fustidens, Bottosaurus_harlani, Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, ... (n=20)",5,"state_41","CD",0.000472
+177,"node_177",6,"Bottosaurus_fustidens, Bottosaurus_harlani, Necrosuchus_ionensis, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, ... (n=6)",1,"state_5","D",0.916679
+177,"node_177",6,"Bottosaurus_fustidens, Bottosaurus_harlani, Necrosuchus_ionensis, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, ... (n=6)",2,"state_2","A",0.062224
+177,"node_177",6,"Bottosaurus_fustidens, Bottosaurus_harlani, Necrosuchus_ionensis, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, ... (n=6)",3,"state_18","AD",0.021097
+178,"node_178",5,"Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, Tsoabichi_greenriverensis",1,"state_2","A",0.897513
+178,"node_178",5,"Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, Tsoabichi_greenriverensis",2,"state_5","D",0.088069
+178,"node_178",5,"Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus, Tsoabichi_greenriverensis",3,"state_18","AD",0.014418
+179,"node_179",4,"Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus",1,"state_5","D",0.758268
+179,"node_179",4,"Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus",2,"state_2","A",0.223741
+179,"node_179",4,"Bottosaurus_fustidens, Bottosaurus_harlani, Paleosuchus_palpebrosus, Paleosuchus_trigonatus",3,"state_18","AD",0.017991
+180,"node_180",2,"Bottosaurus_fustidens, Bottosaurus_harlani",1,"state_2","A",1
+181,"node_181",2,"Paleosuchus_palpebrosus, Paleosuchus_trigonatus",1,"state_5","D",1
+182,"node_182",14,"Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=14)",1,"state_5","D",0.954187
+182,"node_182",14,"Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=14)",2,"state_4","C",0.0292
+182,"node_182",14,"Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=14)",3,"state_41","CD",0.016614
+183,"node_183",7,"Centenariosuchus_gilmorei, Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus, Purussaurus_brasiliensis, ... (n=7)",1,"state_5","D",0.531506
+183,"node_183",7,"Centenariosuchus_gilmorei, Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus, Purussaurus_brasiliensis, ... (n=7)",2,"state_4","C",0.450146
+183,"node_183",7,"Centenariosuchus_gilmorei, Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus, Purussaurus_brasiliensis, ... (n=7)",3,"state_41","CD",0.018348
+184,"node_184",6,"Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus, Purussaurus_brasiliensis, Purussaurus_mirandai, ... (n=6)",1,"state_5","D",1
+185,"node_185",3,"Mourasuchus_amazonensis, Mourasuchus_arendsi, Mourasuchus_atopus",1,"state_5","D",1
+186,"node_186",2,"Mourasuchus_arendsi, Mourasuchus_atopus",1,"state_5","D",1
+187,"node_187",3,"Purussaurus_brasiliensis, Purussaurus_mirandai, Purussaurus_neivensis",1,"state_5","D",1
+188,"node_188",2,"Purussaurus_brasiliensis, Purussaurus_mirandai",1,"state_5","D",1
+189,"node_189",7,"Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=7)",1,"state_5","D",1
+190,"node_190",6,"Caiman_brevirostris, Caiman_crocodilus, Caiman_latirostris, Caiman_wannlangstoni, Caiman_yacare, ... (n=6)",1,"state_5","D",1
+191,"node_191",5,"Caiman_brevirostris, Caiman_crocodilus, Caiman_wannlangstoni, Caiman_yacare, La_venta_Caiman",1,"state_5","D",1
+192,"node_192",3,"Caiman_brevirostris, Caiman_wannlangstoni, La_venta_Caiman",1,"state_5","D",1
+193,"node_193",2,"Caiman_wannlangstoni, La_venta_Caiman",1,"state_5","D",1
+194,"node_194",2,"Caiman_crocodilus, Caiman_yacare",1,"state_5","D",1
+195,"node_195",6,"Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis, ... (n=6)",1,"state_11","J",0.992096
+195,"node_195",6,"Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis, ... (n=6)",2,"state_98","JL",0.007901
+196,"node_196",5,"Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",1,"state_11","J",0.787315
+196,"node_196",5,"Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",2,"state_13","L",0.183612
+196,"node_196",5,"Dongnanosuchus_hsui, Eoalligator_chunyii, Jiangxisuchus_nankangensis, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",3,"state_98","JL",0.029072
+197,"node_197",3,"Dongnanosuchus_hsui, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",1,"state_13","L",0.845914
+197,"node_197",3,"Dongnanosuchus_hsui, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",2,"state_98","JL",0.077957
+197,"node_197",3,"Dongnanosuchus_hsui, Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",3,"state_11","J",0.076129
+198,"node_198",2,"Krabisuchus_siamogallicus, Orientalosuchus_naduongensis",1,"state_13","L",1
+199,"node_199",2,"Eoalligator_chunyii, Jiangxisuchus_nankangensis",1,"state_11","J",1
+200,"node_200",42,"Asiatosuchus_depressifrons, Asiatosuchus_germanicus, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, ... (n=42)",1,"state_6","E",0.63182
+200,"node_200",42,"Asiatosuchus_depressifrons, Asiatosuchus_germanicus, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, ... (n=42)",2,"state_2","A",0.34382
+200,"node_200",42,"Asiatosuchus_depressifrons, Asiatosuchus_germanicus, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, ... (n=42)",3,"state_19","AE",0.023886
+200,"node_200",42,"Asiatosuchus_depressifrons, Asiatosuchus_germanicus, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, ... (n=42)",4,"state_140","AEF",0.000235
+200,"node_200",42,"Asiatosuchus_depressifrons, Asiatosuchus_germanicus, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, ... (n=42)",5,"state_20","AF",0.00015
+201,"node_201",41,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=41)",1,"state_2","A",0.973639
+201,"node_201",41,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=41)",2,"state_6","E",0.021576
+201,"node_201",41,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=41)",3,"state_19","AE",0.004076
+201,"node_201",41,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=41)",4,"state_20","AF",0.000575
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",1,"state_2","A",0.515785
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",2,"state_6","E",0.467996
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",3,"state_19","AE",0.013825
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",4,"state_20","AF",0.001096
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",5,"state_140","AEF",0.00045
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",6,"state_11","J",0.000304
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",7,"state_62","EF",0.000261
+202,"node_202",40,"Asiatosuchus_depressifrons, Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, ... (n=40)",8,"state_141","AEG",0.000102
+203,"node_203",2,"Asiatosuchus_depressifrons, Crocodylus_affinis",1,"state_2","A",0.466639
+203,"node_203",2,"Asiatosuchus_depressifrons, Crocodylus_affinis",2,"state_6","E",0.404051
+203,"node_203",2,"Asiatosuchus_depressifrons, Crocodylus_affinis",3,"state_19","AE",0.12931
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",1,"state_2","A",0.510141
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",2,"state_6","E",0.458958
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",3,"state_19","AE",0.020025
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",4,"state_11","J",0.002951
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",5,"state_20","AF",0.002914
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",6,"state_140","AEF",0.002448
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",7,"state_62","EF",0.001148
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",8,"state_141","AEG",0.000578
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",9,"state_63","EG",0.000184
+204,"node_204",38,"Australosuchus_clarkae, Brachyuranochampsa_eversolei, Brochuchus_pigotti, Crocodylus_acer, Crocodylus_acutus, ... (n=38)",10,"state_7","F",0.000124
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",1,"state_6","E",0.979478
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",2,"state_62","EF",0.010743
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",3,"state_11","J",0.00349
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",4,"state_63","EG",0.001984
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",5,"state_140","AEF",0.001471
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",6,"state_20","AF",0.000463
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",7,"state_19","AE",0.000374
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",8,"state_261","CEF",0.000364
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",9,"state_141","AEG",0.000363
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",10,"state_7","F",0.000351
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",11,"state_66","EJ",0.00018
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",12,"state_351","EFG",0.000116
+205,"node_205",36,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=36)",13,"state_2","A",0.000112
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",1,"state_7","F",0.640725
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",2,"state_71","FG",0.20607
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",3,"state_8","G",0.09065
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",4,"state_77","FM",0.020868
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",5,"state_387","FGH",0.013627
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",6,"state_72","FH",0.008929
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",7,"state_75","FK",0.003321
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",8,"state_392","FGM",0.003246
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",9,"state_315","DFG",0.001774
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",10,"state_79","GH",0.001684
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",11,"state_390","FGK",0.001553
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",12,"state_53","DF",0.001429
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",13,"state_20","AF",0.001357
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",14,"state_149","AFG",0.001119
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",15,"state_9","H",0.000604
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",16,"state_215","BFG",0.000462
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",17,"state_76","FL",0.00046
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",18,"state_270","CFG",0.000451
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",19,"state_43","CF",0.000398
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",20,"state_32","BF",0.000329
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",21,"state_391","FGL",0.000251
+206,"node_206",16,"Australosuchus_clarkae, Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_megarhinus, Crocodylus_niloticus, ... (n=16)",22,"state_54","DG",0.000117
+207,"node_207",5,"Australosuchus_clarkae, Crocodylus_megarhinus, Kambara_implexidens, Quinkana_spp, Trilophosuchus_rackhami",1,"state_7","F",0.961259
+207,"node_207",5,"Australosuchus_clarkae, Crocodylus_megarhinus, Kambara_implexidens, Quinkana_spp, Trilophosuchus_rackhami",2,"state_77","FM",0.038608
+207,"node_207",5,"Australosuchus_clarkae, Crocodylus_megarhinus, Kambara_implexidens, Quinkana_spp, Trilophosuchus_rackhami",3,"state_14","M",0.000133
+208,"node_208",4,"Australosuchus_clarkae, Kambara_implexidens, Quinkana_spp, Trilophosuchus_rackhami",1,"state_14","M",1
+209,"node_209",3,"Australosuchus_clarkae, Quinkana_spp, Trilophosuchus_rackhami",1,"state_14","M",1
+210,"node_210",2,"Quinkana_spp, Trilophosuchus_rackhami",1,"state_14","M",1
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",1,"state_8","G",0.550417
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",2,"state_71","FG",0.275212
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",3,"state_7","F",0.061481
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",4,"state_79","GH",0.033472
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",5,"state_387","FGH",0.031114
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",6,"state_12","K",0.007124
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",7,"state_82","GK",0.005361
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",8,"state_390","FGK",0.005013
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",9,"state_72","FH",0.004634
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",10,"state_9","H",0.003497
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",11,"state_75","FK",0.003483
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",12,"state_83","GL",0.00295
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",13,"state_315","DFG",0.002448
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",14,"state_149","AFG",0.001534
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",15,"state_391","FGL",0.001516
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",16,"state_54","DG",0.001254
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",17,"state_215","BFG",0.000954
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",18,"state_13","L",0.000801
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",19,"state_270","CFG",0.000759
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",20,"state_76","FL",0.000706
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",21,"state_21","AG",0.000642
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",22,"state_33","BG",0.000583
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",23,"state_53","DF",0.000546
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",24,"state_44","CG",0.00048
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",25,"state_20","AF",0.000463
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",26,"state_417","GHK",0.000396
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",27,"state_430","GKL",0.000359
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",28,"state_101","KL",0.000307
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",29,"state_409","FKL",0.000299
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",30,"state_396","FHK",0.00023
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",31,"state_323","DGH",0.000208
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",32,"state_418","GHL",0.000183
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",33,"state_43","CF",0.000158
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",34,"state_32","BF",0.000149
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",35,"state_223","BGH",0.000138
+211,"node_211",11,"Brochuchus_pigotti, Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer, ... (n=11)",36,"state_157","AGH",0.00012
+212,"node_212",7,"Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)",1,"state_8","G",0.612257
+212,"node_212",7,"Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)",2,"state_71","FG",0.274051
+212,"node_212",7,"Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)",3,"state_7","F",0.112266
+212,"node_212",7,"Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)",4,"state_79","GH",0.000602
+212,"node_212",7,"Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)",5,"state_9","H",0.000512
+212,"node_212",7,"Brochuchus_pigotti, Euthecodon_arambourgii, Mecistops_cataphractus, Osteolaemus_osborni, Osteolaemus_tetraspis, ... (n=7)",6,"state_387","FGH",0.000255
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",1,"state_8","G",0.650714
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",2,"state_71","FG",0.251865
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",3,"state_7","F",0.087918
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",4,"state_9","H",0.007062
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",5,"state_79","GH",0.001856
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",6,"state_387","FGH",0.000421
+213,"node_213",6,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Rimasuchus_lloydi, ... (n=6)",7,"state_72","FH",0.000164
+214,"node_214",5,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",1,"state_8","G",0.839011
+214,"node_214",5,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",2,"state_9","H",0.087453
+214,"node_214",5,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",3,"state_7","F",0.066347
+214,"node_214",5,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",4,"state_71","FG",0.003807
+214,"node_214",5,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",5,"state_79","GH",0.003125
+214,"node_214",5,"Brochuchus_pigotti, Euthecodon_arambourgii, Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",6,"state_72","FH",0.000202
+215,"node_215",2,"Brochuchus_pigotti, Euthecodon_arambourgii",1,"state_8","G",0.613606
+215,"node_215",2,"Brochuchus_pigotti, Euthecodon_arambourgii",2,"state_7","F",0.375627
+215,"node_215",2,"Brochuchus_pigotti, Euthecodon_arambourgii",3,"state_71","FG",0.010767
+216,"node_216",3,"Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",1,"state_9","H",0.538621
+216,"node_216",3,"Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",2,"state_8","G",0.450061
+216,"node_216",3,"Osteolaemus_osborni, Osteolaemus_tetraspis, Voay_robustus",3,"state_79","GH",0.011317
+217,"node_217",2,"Osteolaemus_osborni, Osteolaemus_tetraspis",1,"state_8","G",1
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",1,"state_387","FGH",0.185452
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",2,"state_71","FG",0.119234
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",3,"state_8","G",0.101511
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",4,"state_7","F",0.090961
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",5,"state_101","KL",0.060864
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",6,"state_467","KLM",0.059391
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",7,"state_79","GH",0.052078
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",8,"state_12","K",0.041416
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",9,"state_390","FGK",0.033384
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",10,"state_72","FH",0.029599
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",11,"state_409","FKL",0.027827
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",12,"state_9","H",0.024312
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",13,"state_430","GKL",0.024236
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",14,"state_391","FGL",0.014351
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",15,"state_417","GHK",0.01251
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",16,"state_396","FHK",0.010572
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",17,"state_102","KM",0.01036
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",18,"state_75","FK",0.008389
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",19,"state_13","L",0.008309
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",20,"state_82","GK",0.006397
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",21,"state_418","GHL",0.005759
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",22,"state_410","FKM",0.005668
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",23,"state_215","BFG",0.005316
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",24,"state_315","DFG",0.00519
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",25,"state_445","HKL",0.004961
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",26,"state_433","GLM",0.004551
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",27,"state_431","GKM",0.004228
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",28,"state_83","GL",0.004174
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",29,"state_149","AFG",0.003792
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",30,"state_270","CFG",0.003252
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",31,"state_104","LM",0.003161
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",32,"state_412","FLM",0.002899
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",33,"state_76","FL",0.002627
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",34,"state_397","FHL",0.002371
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",35,"state_88","HK",0.002134
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",36,"state_223","BGH",0.001893
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",37,"state_446","HKM",0.001392
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",38,"state_323","DGH",0.001248
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",39,"state_216","BFH",0.001113
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",40,"state_278","CGH",0.001101
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",41,"state_157","AGH",0.000978
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",42,"state_316","DFH",0.000818
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",43,"state_150","AFH",0.000747
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",44,"state_271","CFH",0.000663
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",45,"state_32","BF",0.000615
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",46,"state_33","BG",0.000611
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",47,"state_53","DF",0.000574
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",48,"state_54","DG",0.000538
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",49,"state_20","AF",0.000484
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",50,"state_43","CF",0.000415
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",51,"state_44","CG",0.000403
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",52,"state_21","AG",0.000376
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",53,"state_219","BFK",0.000367
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",54,"state_121","ACF",0.000357
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",55,"state_319","DFK",0.000305
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",56,"state_153","AFK",0.000278
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",57,"state_226","BGK",0.000259
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",58,"state_274","CFK",0.000247
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",59,"state_122","ACG",0.000232
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",60,"state_131","ADF",0.000212
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",61,"state_326","DGK",0.000192
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",62,"state_281","CGK",0.00017
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",63,"state_227","BGL",0.000168
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",64,"state_132","ADG",0.000166
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",65,"state_160","AGK",0.000153
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",66,"state_252","CDF",0.000152
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",67,"state_253","CDG",0.000139
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",68,"state_327","DGL",0.000129
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",69,"state_220","BFL",0.000112
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",70,"state_282","CGL",0.000111
+218,"node_218",4,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_porosus, Crocodylus_rhombifer",71,"state_161","AGL",1e-04
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",1,"state_387","FGH",0.295299
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",2,"state_71","FG",0.175976
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",3,"state_8","G",0.153822
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",4,"state_7","F",0.149143
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",5,"state_79","GH",0.082077
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",6,"state_72","FH",0.047734
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",7,"state_9","H",0.044426
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",8,"state_215","BFG",0.00886
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",9,"state_315","DFG",0.007529
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",10,"state_149","AFG",0.005724
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",11,"state_270","CFG",0.005299
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",12,"state_223","BGH",0.003428
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",13,"state_323","DGH",0.002095
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",14,"state_216","BFH",0.00201
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",15,"state_278","CGH",0.001971
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",16,"state_157","AGH",0.001709
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",17,"state_316","DFH",0.001335
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",18,"state_150","AFH",0.001222
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",19,"state_271","CFH",0.001176
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",20,"state_32","BF",0.00113
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",21,"state_33","BG",0.001084
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",22,"state_53","DF",0.000742
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",23,"state_54","DG",0.000685
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",24,"state_43","CF",0.000646
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",25,"state_20","AF",0.000645
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",26,"state_44","CG",0.000612
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",27,"state_121","ACF",0.000581
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",28,"state_21","AG",0.000532
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",29,"state_122","ACG",0.000411
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",30,"state_131","ADF",0.000357
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",31,"state_252","CDF",0.00031
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",32,"state_132","ADG",0.000288
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",33,"state_253","CDG",0.000286
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",34,"state_34","BH",0.000195
+219,"node_219",3,"Crocodylus_acutus, Crocodylus_niloticus, Crocodylus_rhombifer",35,"state_45","CH",0.000108
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",1,"state_3","B",0.393841
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",2,"state_4","C",0.134237
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",3,"state_5","D",0.117882
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",4,"state_2","A",0.111314
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",5,"state_41","CD",0.070949
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",6,"state_17","AC",0.070344
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",7,"state_119","ACD",0.048001
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",8,"state_18","AD",0.039944
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",9,"state_185","BCD",0.002911
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",10,"state_107","ABC",0.002899
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",11,"state_108","ABD",0.002231
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",12,"state_29","BC",0.002098
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",13,"state_30","BD",0.001685
+220,"node_220",2,"Crocodylus_acutus, Crocodylus_rhombifer",14,"state_16","AB",0.001666
+221,"node_221",20,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=20)",1,"state_6","E",0.992969
+221,"node_221",20,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=20)",2,"state_11","J",0.0037
+221,"node_221",20,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=20)",3,"state_19","AE",0.001812
+221,"node_221",20,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=20)",4,"state_66","EJ",0.000873
+221,"node_221",20,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=20)",5,"state_62","EF",0.00055
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",1,"state_6","E",0.855762
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",2,"state_11","J",0.099835
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",3,"state_2","A",0.027336
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",4,"state_19","AE",0.008017
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",5,"state_62","EF",0.003724
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",6,"state_66","EJ",0.003353
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",7,"state_7","F",0.00091
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",8,"state_140","AEF",0.000351
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",9,"state_74","FJ",0.000268
+222,"node_222",19,"Dollosuchoides_densmorei, Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, ... (n=19)",10,"state_24","AJ",0.000225
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",1,"state_11","J",0.497045
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",2,"state_2","A",0.277546
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",3,"state_6","E",0.191571
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",4,"state_19","AE",0.008341
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",5,"state_62","EF",0.007129
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",6,"state_24","AJ",0.007113
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",7,"state_74","FJ",0.005838
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",8,"state_7","F",0.001818
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",9,"state_66","EJ",0.001665
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",10,"state_20","AF",0.000648
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",11,"state_152","AFJ",0.000494
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",12,"state_140","AEF",0.000459
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",13,"state_354","EFJ",0.000143
+223,"node_223",18,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=18)",14,"state_144","AEJ",0.000114
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",1,"state_11","J",0.514046
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",2,"state_6","E",0.405128
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",3,"state_62","EF",0.034318
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",4,"state_74","FJ",0.032982
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",5,"state_66","EJ",0.008625
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",6,"state_7","F",0.00236
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",7,"state_354","EFJ",0.001821
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",8,"state_98","JL",0.000308
+224,"node_224",17,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=17)",9,"state_406","FJL",0.000233
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",1,"state_11","J",0.5432
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",2,"state_6","E",0.398836
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",3,"state_66","EJ",0.038421
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",4,"state_62","EF",0.008427
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",5,"state_74","FJ",0.006185
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",6,"state_98","JL",0.002569
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",7,"state_378","EJL",0.001088
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",8,"state_354","EFJ",0.000949
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",9,"state_406","FJL",0.000131
+225,"node_225",16,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=16)",10,"state_7","F",0.000124
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",1,"state_11","J",0.729576
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",2,"state_6","E",0.199181
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",3,"state_7","F",0.043381
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",4,"state_66","EJ",0.019327
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",5,"state_74","FJ",0.006615
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",6,"state_62","EF",0.001287
+226,"node_226",12,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=12)",7,"state_354","EFJ",0.000474
+227,"node_227",11,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=11)",1,"state_6","E",0.708049
+227,"node_227",11,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=11)",2,"state_7","F",0.27409
+227,"node_227",11,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=11)",3,"state_62","EF",0.01722
+227,"node_227",11,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=11)",4,"state_19","AE",0.000431
+228,"node_228",10,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=10)",1,"state_6","E",0.979925
+228,"node_228",10,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=10)",2,"state_7","F",0.010745
+228,"node_228",10,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=10)",3,"state_62","EF",0.004961
+228,"node_228",10,"Eogavialis_africanum, Eosuchus_lerichei, Eosuchus_minor, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, ... (n=10)",4,"state_19","AE",0.004194
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",1,"state_7","F",0.521228
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",2,"state_6","E",0.447608
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",3,"state_62","EF",0.012519
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",4,"state_2","A",0.012243
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",5,"state_53","DF",0.003586
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",6,"state_19","AE",0.001488
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",7,"state_75","FK",0.000544
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",8,"state_306","DEF",0.000402
+229,"node_229",8,"Eogavialis_africanum, Eothoracosaurus_mississippiensi, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, ... (n=8)",9,"state_140","AEF",0.000113
+230,"node_230",5,"Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",1,"state_7","F",0.69212
+230,"node_230",5,"Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",2,"state_319","DFK",0.237229
+230,"node_230",5,"Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",3,"state_75","FK",0.058705
+230,"node_230",5,"Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",4,"state_53","DF",0.007314
+230,"node_230",5,"Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",5,"state_58","DK",0.00397
+230,"node_230",5,"Eogavialis_africanum, Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",6,"state_5","D",0.000605
+231,"node_231",4,"Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",1,"state_58","DK",0.963033
+231,"node_231",4,"Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",2,"state_5","D",0.036206
+231,"node_231",4,"Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus, Piscogavialis_jugaliperforatus",3,"state_12","K",0.000761
+232,"node_232",3,"Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus",1,"state_58","DK",0.967635
+232,"node_232",3,"Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus",2,"state_5","D",0.031172
+232,"node_232",3,"Gavialis_gangeticus, Gavialis_lewisi, Gryposuchus_colombianus",3,"state_12","K",0.001193
+233,"node_233",2,"Gavialis_gangeticus, Gavialis_lewisi",1,"state_12","K",1
+234,"node_234",3,"Eothoracosaurus_mississippiensi, Thoracosaurus_macrorhynchus, Thoracosaurus_neocesariensis",1,"state_6","E",0.972654
+234,"node_234",3,"Eothoracosaurus_mississippiensi, Thoracosaurus_macrorhynchus, Thoracosaurus_neocesariensis",2,"state_2","A",0.015022
+234,"node_234",3,"Eothoracosaurus_mississippiensi, Thoracosaurus_macrorhynchus, Thoracosaurus_neocesariensis",3,"state_19","AE",0.012324
+235,"node_235",2,"Eothoracosaurus_mississippiensi, Thoracosaurus_neocesariensis",1,"state_2","A",1
+236,"node_236",2,"Eosuchus_lerichei, Eosuchus_minor",1,"state_6","E",0.760806
+236,"node_236",2,"Eosuchus_lerichei, Eosuchus_minor",2,"state_2","A",0.173977
+236,"node_236",2,"Eosuchus_lerichei, Eosuchus_minor",3,"state_19","AE",0.065217
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",1,"state_6","E",0.399267
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",2,"state_62","EF",0.275663
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",3,"state_11","J",0.119149
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",4,"state_13","L",0.055001
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",5,"state_7","F",0.035843
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",6,"state_66","EJ",0.030926
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",7,"state_378","EJL",0.02422
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",8,"state_356","EFL",0.020054
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",9,"state_354","EFJ",0.015786
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",10,"state_98","JL",0.014704
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",11,"state_406","FJL",0.003896
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",12,"state_74","FJ",0.003554
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",13,"state_76","FL",0.001475
+237,"node_237",4,"Gavialosuchus_eggenburgensis, Tomistoma_lusitanica, Tomistoma_schlegelii, Toyotamaphimeia_machikanensis",14,"state_68","EL",0.000461
+238,"node_238",2,"Gavialosuchus_eggenburgensis, Toyotamaphimeia_machikanensis",1,"state_11","J",0.497164
+238,"node_238",2,"Gavialosuchus_eggenburgensis, Toyotamaphimeia_machikanensis",2,"state_6","E",0.446838
+238,"node_238",2,"Gavialosuchus_eggenburgensis, Toyotamaphimeia_machikanensis",3,"state_66","EJ",0.055998
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",1,"state_62","EF",0.385743
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",2,"state_13","L",0.252862
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",3,"state_7","F",0.250251
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",4,"state_356","EFL",0.082457
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",5,"state_76","FL",0.021178
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",6,"state_68","EL",0.00701
+239,"node_239",2,"Tomistoma_lusitanica, Tomistoma_schlegelii",7,"state_6","E",0.000499
+240,"node_240",2,"Brachyuranochampsa_eversolei, Crocodylus_acer",1,"state_2","A",1
+241,"node_241",3,"Deinosuchus_riograndensis, Deinosuchus_schwimmeri, Leidyosuchus_canadensis",1,"state_2","A",1
+242,"node_242",2,"Deinosuchus_riograndensis, Deinosuchus_schwimmeri",1,"state_2","A",1
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",1,"state_11","J",0.963289
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",2,"state_6","E",0.014341
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",3,"state_66","EJ",0.010623
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",4,"state_24","AJ",0.007573
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",5,"state_2","A",0.002054
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",6,"state_144","AEJ",0.001936
+243,"node_243",4,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis, Planocrania_hengdongensis",7,"state_19","AE",0.000184
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",1,"state_6","E",0.471253
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",2,"state_11","J",0.401821
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",3,"state_2","A",0.091886
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",4,"state_66","EJ",0.015849
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",5,"state_24","AJ",0.009556
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",6,"state_19","AE",0.005719
+244,"node_244",3,"Boverisuchus_magnifrons, Boverisuchus_vorax, Planocrania_datangensis",7,"state_144","AEJ",0.003915
+245,"node_245",2,"Boverisuchus_magnifrons, Boverisuchus_vorax",1,"state_6","E",0.678203
+245,"node_245",2,"Boverisuchus_magnifrons, Boverisuchus_vorax",2,"state_2","A",0.213103
+245,"node_245",2,"Boverisuchus_magnifrons, Boverisuchus_vorax",3,"state_19","AE",0.108694
+246,"node_246",13,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=13)",1,"state_6","E",0.431631
+246,"node_246",13,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=13)",2,"state_2","A",0.424804
+246,"node_246",13,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=13)",3,"state_19","AE",0.141021
+246,"node_246",13,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=13)",4,"state_140","AEF",0.001526
+246,"node_246",13,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=13)",5,"state_62","EF",0.000928
+247,"node_247",6,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_sternbergii, Borealosuchus_threeensis, ... (n=6)",1,"state_2","A",1
+248,"node_248",5,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_griffithi, Borealosuchus_threeensis, Borealosuchus_wilsoni",1,"state_2","A",1
+249,"node_249",4,"Borealosuchus_acutidentatus, Borealosuchus_formidabilis, Borealosuchus_threeensis, Borealosuchus_wilsoni",1,"state_2","A",1
+250,"node_250",3,"Borealosuchus_acutidentatus, Borealosuchus_threeensis, Borealosuchus_wilsoni",1,"state_2","A",1
+251,"node_251",2,"Borealosuchus_threeensis, Borealosuchus_wilsoni",1,"state_2","A",1
+252,"node_252",7,"Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=7)",1,"state_6","E",0.988849
+252,"node_252",7,"Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=7)",2,"state_62","EF",0.011145
+253,"node_253",6,"Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=6)",1,"state_6","E",0.927418
+253,"node_253",6,"Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=6)",2,"state_62","EF",0.052697
+253,"node_253",6,"Diplocynodon_darwini, Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, ... (n=6)",3,"state_7","F",0.019885
+254,"node_254",5,"Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis",1,"state_6","E",0.854652
+254,"node_254",5,"Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis",2,"state_62","EF",0.079777
+254,"node_254",5,"Diplocynodon_deponiae, Diplocynodon_hantoniensis, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis",3,"state_7","F",0.065571
+255,"node_255",4,"Diplocynodon_deponiae, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis",1,"state_6","E",0.554493
+255,"node_255",4,"Diplocynodon_deponiae, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis",2,"state_7","F",0.330149
+255,"node_255",4,"Diplocynodon_deponiae, Diplocynodon_muelleri, Diplocynodon_ratelii, Diplocynodon_tormis",3,"state_62","EF",0.115358
+256,"node_256",2,"Diplocynodon_deponiae, Diplocynodon_ratelii",1,"state_6","E",0.836737
+256,"node_256",2,"Diplocynodon_deponiae, Diplocynodon_ratelii",2,"state_7","F",0.090159
+256,"node_256",2,"Diplocynodon_deponiae, Diplocynodon_ratelii",3,"state_62","EF",0.073104
+257,"node_257",2,"Diplocynodon_muelleri, Diplocynodon_tormis",1,"state_7","F",1

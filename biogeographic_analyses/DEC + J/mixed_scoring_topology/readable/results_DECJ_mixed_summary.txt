@@ -1,0 +1,24 @@
+=== results_DECJ_biogeographyMIXacutus.rds ===
+
+Parameters:
+      parameter     value
+1 loglikelihood -261.2654
+
+Inputs used:
+  tree tips: 0 
+
+All top-level names:
+ [1] "final_all_condlikes_of_each_state"                                      
+ [2] "condlikes_table"                                                        
+ [3] "relative_probs_of_each_state_at_branch_bottom_below_node_DOWNPASS_TABLE"
+ [4] "relative_probs_of_each_state_at_branch_top_AT_node_UPPASS"              
+ [5] "relative_probs_of_each_state_at_branch_bottom_below_node_UPPASS"        
+ [6] "ML_marginal_prob_each_state_at_branch_bottom_below_node"                
+ [7] "ML_marginal_prob_each_state_at_branch_top_AT_node"                      
+ [8] "grand_total_likelihood"                                                 
+ [9] "total_loglikelihood"                                                    
+[10] "relative_probs_of_each_state_at_branch_bottom_below_node_DOWNPASS"      
+[11] "relative_probs_of_each_state_at_branch_top_AT_node_DOWNPASS"            
+[12] "inputs"                                                                 
+[13] "outputs"                                                                
+[14] "optim_result"                                                           
